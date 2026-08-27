@@ -1,0 +1,1101 @@
+customer_id,police_report,claim_type,claim_amount,total_policy_claims,fraudulent
+21868593,No,Material only,$2980,1.0,No
+75740424,Unknown,Material only,$2980,3.0,No
+30308357,No,Material only,$3369.5,1.0,Yes
+47830476,No,Material only,$1680,1.0,No
+19269962,No,Material only,$2680,1.0,No
+21831191,No,Injury only,$38306.5,3.0,Yes
+18401412,No,Material only,$1730,4.0,No
+73486606,No,Material only,$1160,3.0,No
+32813689,Unknown,Material only,$2620,1.0,No
+33507197,No,Material only,$2748.5,2.0,Yes
+99103685,No,Material only,$1495,1.0,Yes
+51583214,Unknown,Material and injury,$16690,1.0,No
+35875366,Unknown,Material only,$1870,1.0,No
+21240703,Unknown,Material only,$1050,1.0,No
+18288638,Yes,Injury only,$32560,1.0,No
+63240241,No,Material only,$2870,1.0,No
+1407979,Unknown,Material only,$3208.5,1.0,Yes
+63916778,No,Injury only,$17800,1.0,No
+17004138,No,Injury only,$31380,1.0,No
+9667764,Yes,Injury only,$36190,1.0,No
+75584003,No,Material only,,1.0,No
+90012444,No,Material only,$1010,1.0,No
+10665308,No,Material only,,1.0,No
+35597589,Yes,Injury only,$16830,1.0,No
+1924109,No,Material only,$1690,1.0,No
+12871942,No,Material only,$2830,1.0,No
+32155446,No,Material and injury,$32640,4.0,No
+35876516,No,Material only,$2870,1.0,No
+13265356,No,Material only,$1210,1.0,No
+80379865,No,Injury only,$18580,,No
+64899302,No,Material only,$2630,1.0,No
+11278282,No,Material only,$2540,1.0,No
+90425966,No,Material only,$2320,1.0,No
+70459181,No,Material only,$2725.5,1.0,Yes
+91546921,No,Material only,$2070,1.0,No
+26489135,No,Material only,$1110,1.0,No
+76422302,No,Material only,$1030,1.0,No
+27205554,No,Injury only,$16910,1.0,No
+60225946,No,Material only,$1890,1.0,No
+34790013,Yes,Material and injury,$33040,5.0,No
+53333796,Yes,Material and injury,$25320,1.0,No
+28307541,No,Material only,$2340,1.0,No
+85536059,Yes,Material and injury,$33000,2.0,No
+54642094,No,Injury only,$19960,1.0,No
+47091036,No,Injury only,$27230,1.0,No
+48277275,No,Material and injury,$16150,1.0,No
+75252854,Yes,Injury only,$32630,1.0,No
+31012778,No,Material only,,5.0,Yes
+84571128,No,Material only,,1.0,Yes
+38286862,Unknown,Material and injury,$41850,1.0,No
+1163515,Yes,Injury only,$30540,1.0,No
+18361978,Unknown,Material and injury,$25576,7.0,Yes
+94953428,No,Material only,$2210,3.0,No
+42333031,Yes,Material and injury,$40820,3.0,No
+91786228,No,Material only,$1150,1.0,Yes
+61051505,Unknown,Material and injury,$35765,1.0,Yes
+8132649,No,Material only,$2470,1.0,No
+49428676,No,Material and injury,$20999,1.0,Yes
+77436411,Unknown,Material only,$3358,4.0,Yes
+44319192,Yes,Material and injury,$41430,1.0,No
+57510487,No,Material only,$1730,1.0,No
+62797342,Unknown,Material and injury,$20360,1.0,No
+56923917,No,Material only,$2870,4.0,No
+83088652,Unknown,Material only,$2910,1.0,No
+53087364,No,Material and injury,$33550,1.0,No
+9089663,No,Material and injury,$33190,1.0,No
+83290720,Yes,Material and injury,,1.0,No
+78364565,Yes,Injury only,$25830,3.0,No
+99761663,No,Material only,$1242,1.0,Yes
+6298259,Unknown,Material and injury,$20080,2.0,No
+51936868,No,Material only,$2120,1.0,No
+35907845,Unknown,Material and injury,$19520,1.0,No
+17390816,No,Material only,$2090,1.0,No
+9908654,No,Material only,$1989.5,1.0,Yes
+47228798,Unknown,Material only,,1.0,Yes
+11593991,No,Material only,$2060,1.0,No
+15036122,Unknown,Injury only,$30080,1.0,No
+59046302,No,Material only,$1680,6.0,No
+74058124,Unknown,Injury only,$21505,1.0,Yes
+95221640,No,Material only,$2040,1.0,No
+5956033,No,Material and injury,,1.0,Yes
+91462331,Unknown,Material and injury,$42722.5,1.0,Yes
+7946799,Unknown,Material and injury,$34971.5,5.0,Yes
+83884401,No,Material only,$1288,1.0,Yes
+36498462,Yes,Injury only,$37800,1.0,No
+88191021,Yes,Material only,,1.0,No
+88567908,No,Material only,$1180,1.0,No
+72896975,Unknown,Material and injury,$32480,1.0,No
+85650096,No,Material only,$2710,1.0,No
+51349085,No,Material only,$2620,2.0,No
+90202451,No,Material only,$1943.5,1.0,Yes
+55180831,No,Material and injury,,1.0,No
+14433043,Yes,Material only,$2170,5.0,No
+56590042,No,Injury only,$31498.5,4.0,Yes
+43870673,Unknown,Material only,$1700,1.0,No
+84734050,Unknown,Material only,$2220,1.0,No
+73246256,No,Material only,$1020,1.0,No
+2632562,Unknown,Material only,$1400,1.0,No
+74125758,Unknown,Injury only,$22960,1.0,No
+92752865,No,Injury only,,1.0,No
+47086007,Yes,Injury only,$18400,1.0,No
+33987747,No,Material and injury,$37524.5,1.0,Yes
+37312925,Yes,Injury only,$16070,1.0,No
+13233814,Unknown,Material and injury,$17230,1.0,No
+32561536,No,Material and injury,$24564,1.0,Yes
+73456835,No,Material only,$2599,1.0,Yes
+84767457,Unknown,Material and injury,$23740,1.0,No
+31901720,No,Material only,$1510,1.0,No
+67885239,No,Material only,$2740,1.0,No
+94448966,No,Injury only,$23760,1.0,No
+94633091,No,Material only,$1640,1.0,No
+90116906,No,Injury only,$23270,6.0,No
+82832313,Yes,Injury only,$29060,1.0,No
+87993949,Unknown,Injury only,$25783,2.0,Yes
+61810954,Unknown,Material and injury,$36620,1.0,No
+55782839,Unknown,Injury only,$21300,1.0,No
+39587790,No,Material only,$2967,1.0,Yes
+14293434,No,Material and injury,$44493.5,1.0,Yes
+46620413,Unknown,Material only,$3070.5,1.0,Yes
+53798973,No,Material only,$2560,1.0,No
+15556454,No,Material only,$2070,1.0,No
+61497833,No,Material only,$1759.5,4.0,Yes
+92889077,No,Material only,$1771,5.0,Yes
+19171044,Yes,Injury only,$17360,1.0,No
+93291407,Unknown,Material only,$1368.5,1.0,Yes
+96710523,Yes,Injury only,$19240,1.0,No
+52542420,No,Material and injury,$14260,2.0,No
+37741743,No,Material only,$1350,1.0,No
+48145469,Unknown,Material only,$1860,1.0,No
+25709472,Unknown,Injury only,$15440,1.0,No
+58402401,Unknown,Material and injury,$32710,1.0,No
+23092790,Unknown,Material only,$1380,1.0,No
+62476442,No,Material and injury,,2.0,No
+39943087,Unknown,Material only,$2510,1.0,No
+41265642,No,Material only,,1.0,Yes
+73383008,Unknown,Injury only,$44700.5,1.0,Yes
+77896466,No,Material only,$1550,1.0,No
+83526368,Unknown,Material only,$1850,3.0,No
+31439710,No,Material only,$2760,1.0,No
+30227653,No,Material only,$2740,1.0,No
+86993944,Unknown,Injury only,$26480,1.0,No
+65728108,Unknown,Material and injury,$47610,3.0,Yes
+45539668,No,Material only,$2170,1.0,No
+3159546,No,Injury only,$17590,4.0,No
+88449349,No,Material only,$1080,1.0,No
+35937389,Unknown,Material only,$2610,2.0,No
+19441247,No,Material only,$1320,1.0,No
+7208859,No,Material only,$1840,1.0,No
+65950591,No,Material only,$2970,1.0,No
+2327487,No,Material only,,5.0,No
+30722342,Yes,Injury only,$17180,5.0,No
+31289360,No,Material only,$2720,1.0,No
+24826170,No,Material only,$2700,1.0,No
+14860484,Unknown,Injury only,$14240,4.0,No
+39642700,No,Material only,$2560,3.0,No
+3689105,Yes,Injury only,$19440,4.0,No
+58850120,Yes,Material and injury,$40180,1.0,No
+76965994,No,Material only,$1260,1.0,No
+14490971,No,Material only,$1880,4.0,No
+88277241,Unknown,Injury only,,1.0,Yes
+87386746,No,Material only,$2260,1.0,No
+55157616,No,Material only,$2960,1.0,No
+55593844,No,Material only,$1253.5,1.0,Yes
+72556809,Yes,Material and injury,$32300,2.0,No
+45653187,No,Material only,$1660,1.0,No
+48538925,No,Injury only,$22420,1.0,No
+68724425,No,Material only,$2150,3.0,No
+50817031,Unknown,Material only,$2460,1.0,No
+16836323,No,Material only,$1140,4.0,No
+72701589,No,Material only,,1.0,No
+88126167,Unknown,Injury only,$17050,1.0,No
+50642114,Unknown,Injury only,$25030,1.0,No
+32180678,Unknown,Material and injury,,4.0,No
+74155265,No,Material only,$2080,1.0,No
+26168099,No,Injury only,$38590,3.0,No
+804961,No,Material and injury,$21190,1.0,No
+25823839,Unknown,Injury only,$36180,1.0,No
+61745840,No,Material and injury,$30930,1.0,No
+86024944,Unknown,Material and injury,$47679,2.0,Yes
+40080423,Unknown,Material only,$2440,1.0,No
+14275512,Unknown,Injury only,$28060,1.0,No
+70442756,No,Material only,$1850,1.0,No
+36829984,Yes,Material and injury,$24750,1.0,No
+68772500,Unknown,Material only,$2320,1.0,No
+154557,No,Injury only,,1.0,Yes
+97640137,Unknown,Injury only,$29600,1.0,No
+49270602,No,Material only,$1790,1.0,No
+25021031,Yes,Injury only,$31270,1.0,No
+2590748,Unknown,Material and injury,$30530,2.0,No
+98905793,Unknown,Material only,$3139.5,3.0,Yes
+39495715,No,Material only,$2470,1.0,No
+64840478,Unknown,Material and injury,$17290,1.0,No
+30541131,Unknown,Material only,$1570,1.0,No
+51503228,Unknown,Injury only,$14330,3.0,No
+57959733,No,Material only,$2530,3.0,No
+82415154,No,Material and injury,$15240,1.0,No
+67861420,No,Material only,$1880,1.0,No
+16811546,Unknown,Injury only,$37200,1.0,No
+74840885,Unknown,Material only,$2060,5.0,No
+95719884,Unknown,Material only,$1020,1.0,No
+22856223,No,Material and injury,$40660,1.0,No
+26965990,Unknown,Material only,$2310,1.0,No
+48447568,No,Material and injury,$15920,1.0,No
+16102401,Yes,Material only,$2710,1.0,No
+26448215,No,Material only,$2290,1.0,No
+40922910,No,Material only,$1180,4.0,No
+43293983,No,Material only,$3059,1.0,Yes
+51195864,Unknown,Material only,$1630,2.0,No
+36395486,No,Material only,$3335,3.0,Yes
+32850276,No,Material only,$1580,1.0,No
+94041088,Unknown,Material only,$2645,1.0,Yes
+90718924,No,Material and injury,$27560,1.0,No
+51278451,Unknown,Material and injury,$20660,1.0,No
+16868327,No,Material only,$1400,1.0,No
+32269248,Yes,Injury only,$30350,1.0,No
+35410919,No,Material only,$1740,3.0,No
+20716946,No,Material and injury,$21830,1.0,No
+90102508,No,Material only,$1280,1.0,No
+40744509,No,Material and injury,$34770,4.0,No
+51460517,Unknown,Material only,$1391.5,1.0,Yes
+9677945,No,Material only,$1520,1.0,No
+34297743,No,Material only,$1700,1.0,No
+17682060,Unknown,Material and injury,$17020,1.0,No
+29750601,Unknown,Injury only,$31980,1.0,No
+97698815,Unknown,Material only,$1860,1.0,No
+28920170,No,Material and injury,$41365.5,1.0,Yes
+55572419,Yes,Injury only,$27520,1.0,No
+77219712,No,Material and injury,$20200,1.0,No
+39286853,Unknown,Injury only,$35830,1.0,No
+47226965,No,Material only,$2600,4.0,No
+68757979,No,Material only,$2410,1.0,No
+69956308,Yes,Material only,$3312,4.0,Yes
+47603757,No,Material only,$2980,1.0,No
+83534717,No,Material only,$1680,1.0,No
+40480522,Unknown,Material and injury,$26310,1.0,No
+86597605,No,Material and injury,$37400,1.0,No
+7829022,No,Material only,$2320,1.0,No
+77985379,Yes,Material and injury,$27610,2.0,No
+2826434,No,Injury only,$22100,1.0,No
+16548727,Yes,Material only,$1080,3.0,No
+94267140,No,Material only,$1590,1.0,No
+5637733,Unknown,Material only,$2170,1.0,No
+684748,No,Material only,$2920,2.0,No
+65047878,Unknown,Material only,$1679,4.0,Yes
+84614509,Unknown,Injury only,$18308,1.0,Yes
+93766634,No,Injury only,$16940,1.0,No
+68712439,No,Material only,$1600,1.0,No
+88785895,Unknown,Material and injury,$39307,1.0,Yes
+33924586,Unknown,Material and injury,$28750,1.0,No
+1852176,Unknown,Material only,$1510,1.0,No
+58107776,Yes,Material only,$1030,1.0,No
+30743608,No,Material only,$2714,1.0,Yes
+50530333,Unknown,Material only,$2415,3.0,Yes
+29282358,No,Material and injury,$39280,2.0,No
+55375167,Unknown,Material only,$1403,3.0,Yes
+37692329,No,Material and injury,$34300,1.0,No
+2753882,No,Material only,$2650,1.0,No
+88219691,No,Injury only,$23960,1.0,No
+67722830,No,Material only,$1529.5,3.0,Yes
+11321295,No,Material only,$2460,2.0,No
+28502965,No,Material only,$1620,1.0,No
+51782731,Unknown,Material only,$2790,1.0,No
+76395629,No,Material only,$1210,1.0,No
+20960664,Yes,Injury only,$19676.5,1.0,Yes
+79683883,No,Material and injury,$27266.5,1.0,Yes
+33388786,Yes,Injury only,$33590,2.0,No
+52361935,Yes,Material only,$2840,1.0,No
+97038550,Unknown,Material and injury,$16790,1.0,No
+25911554,No,Material only,$1322.5,3.0,Yes
+43834942,Yes,Material and injury,$19900,1.0,No
+17242900,No,Material only,$2440,1.0,No
+54094880,No,Material only,$1529.5,1.0,Yes
+59809467,Unknown,Material only,,,Yes
+62204138,Unknown,Material only,$2691,1.0,Yes
+93993324,No,Material only,$3128,1.0,Yes
+84995304,Unknown,Material only,$3036,1.0,Yes
+70955654,No,Material only,$1173,1.0,Yes
+43274276,No,Material only,$1200,4.0,No
+23236713,Yes,Injury only,$29960,1.0,No
+76501371,Unknown,Material only,$1970,1.0,No
+56554262,No,Material only,$2090,1.0,No
+48123202,No,Material only,$2640,,No
+93915431,No,Material and injury,$42124.5,1.0,Yes
+38560100,No,Injury only,$21330,3.0,No
+31544049,Unknown,Material only,$1817,1.0,Yes
+68615086,No,Material and injury,$17670,1.0,No
+55535045,No,Material only,$1110,1.0,No
+17988592,No,Material and injury,$32407,1.0,Yes
+4883962,Yes,Material only,$1460,1.0,No
+33812279,Yes,Injury only,$41779.5,1.0,Yes
+81854173,Unknown,Material only,$1850,1.0,No
+24579061,No,Material only,$1770,1.0,No
+29478976,No,Material only,$1160,1.0,No
+10462042,No,Material only,$2410,1.0,No
+52265112,No,Material only,$1520,2.0,No
+53900680,Yes,Material and injury,$33900,2.0,No
+69784779,Yes,Material and injury,$28740,1.0,No
+26810768,No,Material and injury,$23980,3.0,No
+82637319,Unknown,Material only,$1184.5,1.0,Yes
+69546065,Unknown,Material only,$2104.5,1.0,Yes
+67427492,No,Material only,$1040,1.0,No
+18213216,Unknown,Material and injury,$21942,2.0,Yes
+98204394,Unknown,Material only,$1550,6.0,No
+63413368,No,Material only,$1740,2.0,No
+91136854,No,Material only,$2240,4.0,No
+11187680,Unknown,Material only,$2440,1.0,No
+88205075,Unknown,Injury only,$16460,1.0,No
+40728123,No,Material only,$2590,1.0,No
+65176092,No,Material and injury,$37290,3.0,No
+84229777,No,Material only,$3128,1.0,Yes
+76093960,Unknown,Material only,$2700,2.0,No
+36994344,No,Material only,$2280,1.0,No
+68043300,Unknown,Material only,$2656.5,1.0,Yes
+28901669,Yes,Injury only,$35178.5,1.0,Yes
+86916099,No,Injury only,$19390,1.0,No
+29826894,No,Material only,$2730,5.0,No
+79637467,Yes,Injury only,$16700,1.0,No
+36632227,Unknown,Material only,$2886.5,1.0,Yes
+77510822,Unknown,Material only,,2.0,No
+2651069,No,Material only,$1932,1.0,Yes
+8150738,Unknown,Material only,$2210,1.0,No
+67268108,Yes,Material and injury,$41280,2.0,No
+53907868,Unknown,Material and injury,$26620,1.0,No
+86246733,Unknown,Material and injury,$26520,2.0,No
+45568489,Yes,Material and injury,$14480,3.0,No
+28032985,No,Material only,$1800,2.0,No
+33210182,Yes,Material only,$2020,1.0,No
+24731784,No,Material only,$1260,1.0,No
+36126424,Unknown,Material and injury,$20550,1.0,No
+95452498,No,Material only,$2219.5,1.0,Yes
+22756942,Yes,Injury only,$20310,1.0,No
+62489316,No,Material only,$2330,1.0,No
+4825461,Yes,Material and injury,$32960,1.0,No
+63915259,Yes,Material and injury,$18530,1.0,No
+6723724,Unknown,Material only,$1679,1.0,Yes
+51719336,Unknown,Material only,$2070,1.0,Yes
+89808931,No,Material only,$2750,1.0,No
+55105629,No,Material only,$1860,1.0,No
+79076502,Unknown,Material only,$1380,1.0,No
+81131066,No,Material only,$1920,2.0,No
+75995055,Yes,Injury only,$36350,1.0,No
+24425429,No,Material only,$1450,1.0,No
+51382348,No,Injury only,$39928,1.0,Yes
+18842829,No,Material only,$2450,1.0,No
+98180346,No,Material only,$2810,1.0,No
+53013094,Unknown,Material only,,1.0,No
+25263633,No,Material only,$2470,2.0,No
+16444738,No,Material only,$1207.5,1.0,Yes
+64231993,No,Material and injury,$29690,1.0,No
+89530919,No,Material only,$2450,1.0,No
+38011078,Unknown,Material only,$1940,1.0,No
+76314493,No,Material only,,1.0,No
+51975640,No,Material and injury,$32150,2.0,No
+47593642,Unknown,Material only,$1750,1.0,No
+42439009,Unknown,Injury only,$28950,1.0,No
+51613894,Unknown,Material and injury,,1.0,No
+49078798,No,Material only,$1350,1.0,No
+17822772,Unknown,Injury only,$33200,1.0,No
+94643289,No,Material and injury,$45287,1.0,Yes
+47535244,No,Material only,$2530,1.0,Yes
+70770204,Unknown,Injury only,$28050,1.0,No
+92171044,No,Material only,$2277,1.0,Yes
+98218159,No,Material only,$2840,1.0,No
+24112592,No,Material only,$2130,1.0,No
+97053819,No,Material only,$2070,1.0,No
+88484857,No,Material only,$1900,,No
+89965541,No,Material only,$2810,1.0,No
+96431710,No,Material and injury,$24713.5,1.0,Yes
+13059025,No,Material only,$2220,1.0,No
+49481916,No,Material only,,2.0,Yes
+10956208,No,Material only,$1210,1.0,No
+43059280,Yes,Material and injury,$38970,1.0,No
+92971195,No,Material only,$1140,1.0,No
+97578924,No,Material only,$2360,1.0,No
+81790039,No,Material and injury,$19640,1.0,No
+36812323,Yes,Material and injury,$14170,1.0,No
+63544225,No,Material only,$1100,1.0,No
+4669941,Unknown,Injury only,$29900,1.0,Yes
+64395359,Yes,Injury only,$20970,1.0,No
+25634799,No,Material only,$2900,2.0,No
+31654316,Unknown,Material and injury,$35800,3.0,No
+49499709,No,Material only,$2130,2.0,No
+45415342,No,Material and injury,$24080,1.0,No
+72734097,Yes,Material and injury,$34590,1.0,No
+94707309,No,Material only,$1870,3.0,No
+84750181,No,Material only,$2370,4.0,No
+58380749,Yes,Injury only,$26130,1.0,No
+42345842,Unknown,Material only,$1150,1.0,Yes
+54103924,Unknown,Material and injury,$23370,3.0,No
+48099288,No,Material only,$2090,1.0,No
+57896241,Unknown,Material and injury,$30420,1.0,No
+70730377,No,Material only,$2750,2.0,No
+6125426,No,Material only,,1.0,No
+48227009,No,Material only,$1570,1.0,No
+86308184,Yes,Material only,$1110,1.0,No
+69065193,Unknown,Material and injury,$36075.5,4.0,Yes
+79846638,No,Material only,$1260,1.0,No
+38047917,Yes,Injury only,$22440,1.0,No
+73611258,No,Injury only,$21620,1.0,No
+14696479,No,Material only,$1540,1.0,No
+25166037,Unknown,Injury only,$24610,1.0,No
+1123356,No,Material only,$2507,5.0,Yes
+97162684,Unknown,Material and injury,$20769,1.0,Yes
+95055469,No,Material only,$2990,1.0,No
+56985179,No,Material only,$2967,4.0,Yes
+69039320,No,Material only,$1780,1.0,No
+84514444,No,Injury only,$30840,5.0,No
+79953263,Yes,Injury only,$32680,1.0,No
+15557396,Yes,Material and injury,,3.0,No
+95002919,No,Material and injury,$31110,1.0,No
+7612094,No,Material only,$2771.5,1.0,Yes
+53260501,No,Material only,$1000,1.0,No
+92072156,Yes,Material only,$2970,1.0,No
+77570823,No,Material only,$2230,1.0,No
+69010101,Unknown,Material only,$3427,1.0,Yes
+1223055,Yes,Injury only,$33490,3.0,No
+9884792,Unknown,Injury only,$29630,1.0,No
+1144598,Unknown,Injury only,$25010,1.0,No
+59716520,No,Material only,$1020,1.0,No
+59056552,Yes,Injury only,,1.0,No
+25164999,No,Material only,$1909,1.0,Yes
+70761779,Unknown,Injury only,$14460,6.0,No
+62934102,Yes,Material and injury,$39280,3.0,No
+11472207,Unknown,Material and injury,$44367,1.0,Yes
+97856694,Unknown,Material only,$2392,1.0,Yes
+86818440,Unknown,Material and injury,$31901,1.0,Yes
+66433138,No,Material and injury,$21447.5,2.0,Yes
+87806611,Unknown,Material only,$2950,1.0,No
+36252121,No,Injury only,$22000,4.0,No
+19916012,No,Material only,$1860,1.0,No
+79440308,Unknown,Material only,$1620,1.0,No
+23116437,No,Material only,,1.0,No
+58957713,No,Material only,$2806,1.0,Yes
+4798021,No,Material only,$1170,1.0,No
+83441797,No,Material only,$1630,2.0,No
+30154531,No,Material only,$3013,1.0,Yes
+38117638,No,Material only,$2060,1.0,No
+12112711,No,Material only,$1276.5,1.0,Yes
+4652602,No,Material only,$1320,1.0,No
+45187280,Yes,Injury only,$33030,2.0,No
+77930023,No,Material only,,1.0,Yes
+58934617,Yes,Injury only,$27002,3.0,Yes
+41182960,No,Material only,$2060,1.0,No
+64488618,Yes,Material only,$1630,1.0,No
+59793026,Yes,Material and injury,$40210,1.0,No
+86621072,No,Material only,$1173,1.0,Yes
+47250458,No,Material only,$1630,2.0,No
+35163792,Yes,Material and injury,$20080,2.0,No
+93871952,Yes,Material and injury,$16880,3.0,No
+32464636,No,Material only,$2323,1.0,Yes
+7583158,Yes,Injury only,$19820,,No
+80670612,Unknown,Injury only,$20630,5.0,No
+21840201,Yes,Material only,$1510,1.0,No
+29130403,No,Material only,,1.0,Yes
+89806715,Unknown,Material only,$1710,1.0,No
+56016139,Unknown,Material only,$2219.5,1.0,Yes
+20028241,No,Material only,$2940,1.0,No
+98341654,Unknown,Material only,$2370,1.0,No
+44643917,Yes,Material and injury,$41320,,No
+76185878,No,Material only,$3231.5,1.0,Yes
+18665169,No,Injury only,$37500,2.0,No
+17177153,Unknown,Material only,$2670,1.0,No
+84736739,Yes,Material and injury,$35800,1.0,No
+20110599,Unknown,Material only,$2050,1.0,No
+15635627,Yes,Material only,,1.0,No
+3374112,Yes,Material and injury,$25580,1.0,No
+78415715,Unknown,Material and injury,$39370,1.0,No
+83080037,Unknown,Injury only,$17250,1.0,No
+74017955,Unknown,Material only,$2090,,No
+33372791,No,Material only,$2430,1.0,No
+48874104,No,Material only,$1700,1.0,No
+61822144,Unknown,Material only,,1.0,No
+95418320,No,Material only,$2820,1.0,No
+26450621,No,Material only,$2960,1.0,No
+64622520,No,Material only,$2170,3.0,No
+32521691,No,Material only,$2320,4.0,No
+39444603,No,Material only,$2320,1.0,No
+48960366,No,Material and injury,$31450,1.0,No
+80701300,Yes,Material only,$1150,2.0,Yes
+13275896,No,Material and injury,$23450,1.0,No
+62816998,No,Injury only,$13710,2.0,No
+85700566,Unknown,Material and injury,$16100,1.0,No
+81138909,Unknown,Material only,$2580,1.0,No
+31115028,Unknown,Material only,$2600,1.0,No
+59843845,No,Material and injury,$25730,2.0,No
+75471235,No,Material and injury,$40540,1.0,No
+37365245,No,Material only,$1500,2.0,No
+30886292,Unknown,Material only,$2950,1.0,No
+20094340,No,Material only,$1060,1.0,No
+40948894,Yes,Injury only,$37170,,No
+59903277,No,Material only,$2185,2.0,Yes
+4412055,Unknown,Material and injury,$37869.5,4.0,Yes
+63302691,No,Material only,$1820,1.0,No
+69473158,No,Material only,$2070,1.0,No
+30943507,No,Material and injury,$16040,1.0,No
+88072232,Yes,Material and injury,$27310,3.0,No
+17859000,No,Material only,$2550,1.0,No
+44758258,Unknown,Material and injury,$27910,1.0,No
+59389375,Yes,Injury only,$29480,3.0,No
+56357617,Unknown,Material only,$1300,1.0,No
+82034436,No,Injury only,$37630,1.0,No
+85532819,Yes,Material and injury,$25950,3.0,No
+23741962,Unknown,Material and injury,$27240,1.0,No
+96543848,No,Injury only,$30340,1.0,No
+91135917,No,Material only,$2710,1.0,No
+524545,No,Injury only,$35250,3.0,No
+89479887,Yes,Injury only,$38890,2.0,No
+73495163,Yes,Material and injury,$22570,1.0,No
+49889657,Unknown,Material only,$1140,1.0,No
+96931053,Yes,Injury only,$38120,1.0,No
+1300972,No,Material only,$2369,1.0,Yes
+83887508,No,Material only,,3.0,Yes
+53897607,Unknown,Material only,$1200,1.0,No
+92392817,Unknown,Material only,$2081.5,1.0,Yes
+75086914,No,Material only,$1050,1.0,No
+27868943,No,Material only,$2550,2.0,No
+42238302,Unknown,Material only,$2590,2.0,No
+83882449,Yes,Material only,$1644.5,1.0,Yes
+53191091,Unknown,Material only,$1265,1.0,Yes
+55836042,No,Material only,$1863,1.0,Yes
+19796899,Yes,Material and injury,$24667.5,1.0,Yes
+42014103,No,Material only,$2288.5,4.0,Yes
+66632396,No,Material only,$1810,1.0,No
+34778857,Unknown,Material and injury,$30015,1.0,Yes
+28437868,No,Material only,$1300,1.0,No
+85641672,No,Material only,$1860,1.0,No
+86985239,No,Material and injury,$40880,1.0,No
+19409471,No,Material only,$1550,1.0,No
+98537509,Unknown,Material and injury,$20033,3.0,Yes
+36871042,No,Material and injury,$20230,1.0,No
+62206180,No,Material only,$1670,2.0,No
+6448629,Unknown,Material only,$2714,1.0,Yes
+30197131,No,Injury only,$19297,1.0,Yes
+7988398,Unknown,Injury only,$14720,1.0,No
+13687085,Unknown,Injury only,$16760,1.0,No
+30864915,No,Material only,$2440,1.0,No
+44665885,Yes,Material and injury,$40170,1.0,No
+14604149,Yes,Material and injury,$36350,1.0,No
+9600820,Unknown,Injury only,$29830,1.0,No
+54275114,Yes,Material and injury,$29530,1.0,No
+24065986,Yes,Injury only,$34970,1.0,No
+52208972,No,Material only,$2550,1.0,No
+13435761,No,Material only,$2590,1.0,No
+64916376,No,Material only,$2850,2.0,No
+35895151,No,Material only,$2470,3.0,No
+8201624,No,Material only,$2932.5,4.0,Yes
+55933927,No,Material and injury,$27404.5,2.0,Yes
+65899365,No,Material and injury,$34160,1.0,No
+57025376,No,Material only,$1430,1.0,No
+92189083,Yes,Injury only,$19960,4.0,No
+83836752,No,Material only,$1480,2.0,No
+43806629,No,Material only,$2960,3.0,No
+7303971,No,Material only,$1170,1.0,No
+35189228,Unknown,Material only,$1280,1.0,No
+47879133,No,Material only,$1110,4.0,No
+25550440,Unknown,Material and injury,$17721.5,1.0,Yes
+38718253,Unknown,Injury only,$30060,1.0,No
+44632301,Yes,Injury only,$44666,1.0,Yes
+46691405,Unknown,Injury only,$28230,1.0,No
+96395873,No,Material only,$2410,1.0,No
+25582668,No,Material only,$1265,1.0,Yes
+21969808,No,Material only,$1725,1.0,Yes
+56525103,Unknown,Injury only,$19320,1.0,No
+59510159,No,Material only,$2430,3.0,No
+76666463,No,Material only,$1000,2.0,No
+10330113,No,Material and injury,$29060,3.0,No
+85250389,Unknown,Injury only,$24380,1.0,Yes
+17330419,Unknown,Material and injury,$33210,1.0,No
+62935855,No,Material only,$2370,1.0,No
+27304494,Unknown,Material and injury,$26630,1.0,No
+15820948,Yes,Material and injury,$14570,1.0,No
+25989608,No,Material only,$1700,1.0,No
+64214079,Yes,Material and injury,$30230,1.0,No
+58468142,No,Material only,$1300,1.0,No
+12108789,Yes,Material and injury,$23851,1.0,Yes
+25365364,No,Material only,$1100,2.0,No
+76339681,Unknown,Material only,$1910,1.0,No
+97514724,No,Injury only,$19120,1.0,No
+14501963,No,Material and injury,$47748,3.0,Yes
+41673539,Yes,Material and injury,$44838.5,1.0,Yes
+47730331,Unknown,Material only,$1580,1.0,No
+91180828,Unknown,Material and injury,$28382,1.0,Yes
+86237672,Unknown,Material only,$1530,1.0,No
+47437882,Unknown,Material and injury,$27830,2.0,No
+87092211,No,Material only,$2340,1.0,No
+49820646,Unknown,Material and injury,$22011,2.0,Yes
+77542013,No,Material only,$2540,1.0,No
+40950455,No,Material only,$2790,1.0,No
+97115629,No,Material only,$2910,1.0,No
+30831279,Yes,Injury only,$20720,1.0,No
+28866353,No,Material only,$2334.5,1.0,Yes
+23142036,Yes,Material only,$1600,1.0,No
+89986804,Yes,Material and injury,$37380,1.0,No
+44467682,No,Material only,$1460,4.0,No
+45812655,No,Material only,$1790,1.0,No
+49531152,Unknown,Material only,$1040,1.0,No
+5152503,No,Material only,$1759.5,4.0,Yes
+41093135,Unknown,Material and injury,$29480,1.0,No
+61806100,Unknown,Material only,$1040,2.0,No
+81909700,No,Material only,$2440,1.0,No
+7891758,No,Material only,$1140,1.0,No
+95560169,Unknown,Injury only,$34950,1.0,No
+48477566,No,Material only,$2980,1.0,No
+84147585,Unknown,Material only,$2380,1.0,No
+85357756,No,Material only,$2130,1.0,No
+53539195,No,Material only,$2480,1.0,No
+9775143,No,Material only,$2130,1.0,No
+39959491,Unknown,Material only,$2720,1.0,No
+69355027,Unknown,Material only,$2950,1.0,No
+95639174,No,Material only,$2840,4.0,No
+82028774,Unknown,Material and injury,$38065,4.0,Yes
+48673624,Yes,Material and injury,$26440,2.0,No
+41009394,No,Material only,,4.0,Yes
+42726730,Unknown,Material and injury,$28400,1.0,No
+18062339,Unknown,Material only,$1320,1.0,No
+6540281,No,Material only,$2120,1.0,No
+61582066,No,Material only,$2000,1.0,No
+49058491,Unknown,Material only,$2150,1.0,No
+3124373,Unknown,Material only,$1350,2.0,No
+5345468,Unknown,Injury only,$18570,1.0,No
+84147585,Yes,Injury only,$14430,4.0,No
+85357756,Unknown,Material only,$2510,1.0,No
+53539195,No,Injury only,$25040,1.0,No
+47153140,No,Material only,$1700,1.0,No
+34369658,No,Material only,$2330,1.0,No
+14477985,Unknown,Injury only,$13100,5.0,No
+66521317,No,Material only,,1.0,No
+9081086,Yes,Injury only,$34470,1.0,No
+47237571,No,Material and injury,$40930,1.0,No
+30308357,No,Material only,$1950,6.0,No
+47830476,Unknown,Material only,$1440,1.0,No
+19269962,No,Material only,$2240,2.0,No
+21831191,Unknown,Material and injury,$36810,1.0,No
+91010040,No,Material only,$2460,1.0,No
+69050904,No,Material only,$1060,1.0,No
+69128619,No,Material and injury,$19040,4.0,No
+76933532,No,Material only,$2150,3.0,No
+25174766,No,Material only,$1060,1.0,No
+38923726,No,Injury only,$26850,1.0,No
+53225913,No,Material only,$3381,2.0,Yes
+83086717,No,Material and injury,$23940,1.0,No
+40460125,No,Material only,$1564,1.0,Yes
+88200222,Unknown,Material only,$1780,1.0,No
+88878373,Unknown,Material only,$3001.5,2.0,Yes
+97545319,No,Injury only,$33520,1.0,No
+64610611,Yes,Injury only,$35910,3.0,No
+24310699,Unknown,Material only,$1210,1.0,No
+42569977,Yes,Material and injury,$36170,1.0,No
+34803042,No,Material only,$1265,1.0,Yes
+25512276,No,Material and injury,$16380,1.0,No
+9205013,Yes,Material and injury,$23430,1.0,No
+29517588,No,Material only,$2553,4.0,Yes
+71462870,No,Material only,$1870,3.0,No
+53886536,No,Material only,$2270,1.0,No
+89279737,No,Material and injury,$21920,1.0,No
+5027573,No,Material only,$1490,1.0,No
+69204774,No,Material only,$2265.5,1.0,Yes
+9466593,No,Material only,$1472,1.0,Yes
+30679789,Unknown,Injury only,$36010,2.0,No
+15000907,No,Material only,$2340,3.0,No
+96795364,Unknown,Material only,$2250,1.0,No
+33152432,No,Material only,$1500,1.0,No
+42867092,No,Injury only,,1.0,Yes
+47145694,No,Material only,$1590,1.0,No
+72833735,Unknown,Material only,$2495.5,1.0,Yes
+3771583,No,Material only,$1242,1.0,Yes
+8609975,No,Material only,$2890,1.0,No
+29235935,Yes,Injury only,$30500,1.0,No
+35459428,No,Injury only,$32040,6.0,No
+2917414,No,Material and injury,$17070,1.0,No
+55982230,Unknown,Material and injury,$29428.5,1.0,Yes
+69872861,No,Material only,$2900,3.0,No
+44866465,Yes,Injury only,$31240,1.0,No
+39554038,No,Material only,$2047,1.0,Yes
+14712345,Unknown,Material only,$1630,1.0,No
+41660480,No,Material only,,1.0,No
+53981675,No,Material and injury,$21940,1.0,No
+287476,Unknown,Material only,$1621.5,2.0,Yes
+58378868,No,Material only,$1240,2.0,No
+62960540,No,Injury only,$34390,4.0,No
+36780334,No,Material only,$2340,1.0,No
+17814402,No,Material and injury,$35480,1.0,No
+4420512,No,Material only,$1860,1.0,No
+51485708,No,Material only,$2010,1.0,No
+71496799,No,Material only,$2520,1.0,No
+85983291,No,Material only,$1518,3.0,Yes
+29500814,No,Material only,$2150.5,5.0,Yes
+74351384,No,Material only,,1.0,No
+72363224,No,Material only,$1500,1.0,No
+41106063,No,Material only,$2830,1.0,No
+57043846,Yes,Injury only,$34490,1.0,No
+31740446,No,Material only,$2553,1.0,Yes
+17690710,Yes,Injury only,$32180,1.0,No
+50771198,Yes,Material only,$1020,1.0,No
+23460895,No,Material and injury,$34994.5,1.0,Yes
+33628817,Yes,Material only,$2800,1.0,No
+32791401,No,Material only,$1630,1.0,No
+86491727,Unknown,Material only,$1860,1.0,No
+99674324,No,Injury only,$21480,1.0,No
+81371138,No,Material only,$3358,1.0,Yes
+30199988,No,Material only,$1978,3.0,Yes
+20299691,No,Material only,$2093,5.0,Yes
+40591588,Unknown,Material and injury,$39928,1.0,Yes
+28871739,No,Material only,$1920.5,1.0,Yes
+46995469,No,Material only,$2520,1.0,No
+8774687,No,Material only,,1.0,No
+42083451,No,Material only,$2400,1.0,No
+50560987,Unknown,Material and injury,$21700,3.0,No
+88881248,Yes,Material only,$1610,4.0,No
+30060683,No,Material only,$2160,1.0,No
+28999720,Unknown,Material only,$2360,1.0,No
+40971431,No,Material and injury,$46483,1.0,Yes
+46866733,Yes,Injury only,,3.0,No
+6563653,Unknown,Material and injury,$21530,2.0,No
+9959859,No,Material only,$3105,3.0,Yes
+71404791,No,Material only,$1368.5,3.0,Yes
+73491590,Unknown,Material only,$2270,4.0,No
+11429044,Yes,Material and injury,$33730,1.0,No
+45634936,No,Material only,$1890,1.0,No
+71108576,No,Material and injury,$39997,1.0,Yes
+9017128,Unknown,Material and injury,$19530,1.0,No
+72587271,Unknown,Injury only,$18140,2.0,No
+12673582,Unknown,Injury only,$33400,1.0,No
+44821508,No,Material only,$2740,2.0,No
+85683729,No,Material only,,1.0,No
+90115894,Yes,Material only,$2240,1.0,No
+45566276,No,Material only,$3231.5,4.0,Yes
+12827745,Unknown,Injury only,$19470,1.0,No
+28590552,Unknown,Material and injury,$25160,1.0,No
+15965441,No,Material only,$2120,1.0,No
+12779308,No,Material only,$1560,1.0,No
+53719176,Unknown,Injury only,,6.0,Yes
+51842360,No,Material only,$1130,,No
+56398264,Unknown,Material only,$2090,2.0,No
+73898057,Unknown,Material only,$1610,4.0,Yes
+2476913,No,Injury only,$22130,1.0,No
+66267050,No,Material only,$2250,1.0,No
+46551094,Yes,Material and injury,$33640,1.0,No
+5061178,No,Material and injury,$19100,1.0,No
+29323970,Unknown,Material only,$1840,1.0,Yes
+67243622,Unknown,Material only,,1.0,No
+62861487,Yes,Injury only,$19340,1.0,No
+98083433,No,Material only,$1120,3.0,No
+15681024,No,Material and injury,$14220,1.0,No
+92644503,Yes,Injury only,$18650,1.0,No
+65916260,No,Material only,$3415.5,1.0,Yes
+34953203,Yes,Injury only,$19400,1.0,No
+99961993,No,Material only,$2310,1.0,No
+42098367,Unknown,Material and injury,$24621.5,1.0,Yes
+9130038,No,Material only,$3128,1.0,Yes
+80562391,Unknown,Material only,$3369.5,1.0,Yes
+28932340,Unknown,Material only,,1.0,No
+79212942,Unknown,Material and injury,,1.0,No
+5864769,Yes,Injury only,$34460,1.0,No
+3955265,Unknown,Material and injury,$37740,1.0,No
+42882285,No,Material only,$2357.5,1.0,Yes
+96134505,No,Injury only,$33522.5,1.0,Yes
+8375366,Unknown,Material only,$2110,1.0,No
+82000019,No,Injury only,$33752.5,1.0,Yes
+30394029,No,Material only,$1070,3.0,No
+51525336,Unknown,Injury only,$33465,1.0,Yes
+54963034,Yes,Injury only,$16480,3.0,No
+90876878,Unknown,Injury only,$13820,1.0,No
+16216085,No,Material only,$2880,1.0,No
+11982382,No,Material only,$1640,1.0,No
+33290806,No,Material only,$2550,1.0,No
+39628347,No,Material only,$2220,5.0,No
+84277947,No,Material only,$2370,1.0,No
+95856464,No,Material only,$1120,1.0,No
+67335009,Yes,Material and injury,$20610,1.0,No
+8765210,No,Material and injury,$34200,1.0,No
+77765211,No,Material only,$2580,1.0,No
+39035416,Unknown,Material only,$2540,2.0,No
+5264479,Unknown,Injury only,$24220,1.0,No
+24769711,Yes,Material and injury,$20380,2.0,No
+98142348,No,Material only,$2564.5,2.0,Yes
+22328083,Yes,Material and injury,$30170,2.0,No
+85984961,Unknown,Material only,$3231.5,1.0,Yes
+46937376,No,Material only,$1980,1.0,No
+54252815,Unknown,Injury only,$16680,1.0,No
+17774827,No,Material only,$1370,1.0,No
+80544918,No,Material only,$1430,1.0,No
+18818283,No,Material only,,3.0,No
+22370979,Yes,Material and injury,$24050,2.0,No
+88623068,Yes,Material and injury,$15040,1.0,No
+89044601,No,Material and injury,$17951.5,1.0,Yes
+73876237,No,Material only,$2130,1.0,No
+47585713,Unknown,Injury only,$33140,1.0,No
+16981057,Yes,Injury only,$30080,1.0,No
+32301882,No,Material only,$1310,1.0,No
+16717085,No,Material only,$2740,2.0,No
+75192560,Yes,Injury only,$37520,1.0,No
+24715429,Yes,Material only,$2390,3.0,No
+2121802,Yes,Material and injury,$32090,1.0,No
+30966524,No,Injury only,$16870,1.0,No
+63238733,No,Injury only,,1.0,No
+39608351,Yes,Material only,$2750,1.0,No
+16453494,Unknown,Material only,$2480,1.0,No
+92789350,No,Material only,$1170,2.0,No
+83706741,Yes,Material only,$2633.5,1.0,Yes
+92400577,No,Material only,,1.0,Yes
+90646435,Unknown,Injury only,$25350,1.0,No
+56229221,No,Material only,$1520,1.0,No
+63788489,No,Material only,$1880,1.0,No
+49187749,No,Material and injury,$16680,1.0,No
+58144290,No,Material only,$1250,1.0,No
+21330507,No,Material only,,1.0,No
+21066098,No,Material only,$2955.5,1.0,Yes
+46673661,No,Material only,$1320,2.0,No
+48477164,Unknown,Material and injury,$48150.5,4.0,Yes
+42351519,No,Material only,$2800,2.0,No
+25879245,No,Material only,$1300,1.0,No
+86301193,No,Material and injury,$25093,1.0,Yes
+12996134,Unknown,Material only,$2680,1.0,No
+44003496,No,Material only,$1400,1.0,No
+89737711,Unknown,Material only,$2800,1.0,No
+32560779,No,Material only,,2.0,No
+8039037,No,Material only,$1210,1.0,No
+68723599,No,Material only,$1380,1.0,Yes
+46129941,No,Material only,$3277.5,8.0,Yes
+58098499,No,Injury only,$27580,1.0,No
+12377926,Yes,Injury only,$14480,1.0,No
+20444103,Unknown,Material only,$1330,5.0,No
+89456307,No,Material only,$2500,1.0,No
+15166995,No,Material and injury,$20690,1.0,No
+38384757,Unknown,Material only,$1880,2.0,No
+74219574,No,Material only,$2700,1.0,No
+3967610,Unknown,Material and injury,$26610,1.0,No
+441097,Yes,Material and injury,$37040,1.0,No
+86992868,No,Material only,$2500,2.0,No
+78277006,Yes,Material and injury,$25750,1.0,No
+83499843,No,Material and injury,$18135.5,1.0,Yes
+71585789,Unknown,Material and injury,$18963.5,1.0,Yes
+6342530,No,Material only,$2940,1.0,No
+72081129,No,Material only,$1730,3.0,No
+2413612,No,Material only,,1.0,No
+263204,No,Material and injury,$39192,1.0,Yes
+8733543,No,Material only,$2300,1.0,No
+14792193,Unknown,Material and injury,$36440,1.0,No
+80581271,No,Material only,$1184.5,1.0,Yes
+18426154,Yes,Material and injury,$21590,1.0,No
+85689455,No,Material only,$1600,1.0,No
+64270813,Unknown,Material only,$1748,1.0,Yes
+51547112,No,Material only,$2460,3.0,No
+48609526,No,Injury only,$29530,1.0,No
+49759488,Unknown,Material only,$1667.5,1.0,Yes
+56075921,No,Material only,$1587,4.0,Yes
+76916649,No,Material only,$2550,4.0,No
+47565478,No,Material only,$2702.5,1.0,Yes
+18282409,No,Injury only,$31020,2.0,No
+8715802,Yes,Material only,$2010,1.0,No
+42708350,No,Material only,$2150,1.0,No
+39405635,Unknown,Material and injury,$45540,1.0,Yes
+48038858,Unknown,Material only,$1759.5,2.0,Yes
+15880215,Yes,Injury only,$34200,1.0,No
+13088377,Unknown,Material and injury,$22270,4.0,No
+88870543,Yes,Material only,$1300,3.0,No
+9339845,No,Material only,,1.0,No
+13926634,No,Material only,$2610.5,3.0,Yes
+18307355,Yes,Material and injury,$34210,1.0,No
+50436220,Unknown,Material and injury,$34530,1.0,No
+66353946,Unknown,Material and injury,$26890,1.0,No
+39881716,Unknown,Injury only,$28040,2.0,No
+28239393,No,Material only,$1230,4.0,No
+5237129,Unknown,Injury only,$19750,5.0,No
+19521118,No,Material only,$1380,1.0,No
+14892213,No,Material only,$2010,5.0,No
+53442249,No,Material only,$1495,1.0,Yes
+45971331,Unknown,Injury only,$32730,1.0,No
+79889146,No,Material only,$2587.5,3.0,Yes
+21774335,No,Material only,,1.0,No
+66284489,No,Material only,$1630,4.0,No
+72488905,Unknown,Injury only,$26300,1.0,No
+93910149,No,Material only,$1960,1.0,No
+77116501,Unknown,Injury only,$20490,7.0,No
+95822358,Unknown,Injury only,$16479.5,1.0,Yes
+54699348,Unknown,Material only,$1980,3.0,No
+96496046,No,Injury only,,1.0,No
+73869005,No,Material only,$2100,3.0,No
+83827717,Unknown,Material only,$2290,1.0,No
+55401227,Unknown,Material only,$1190,1.0,No
+80295008,Unknown,Injury only,$21600,1.0,No
+28820055,No,Material only,$1260,1.0,No
+93455439,No,Material only,$2219.5,1.0,Yes
+19478893,No,Material only,$1910,1.0,No
+45419022,Unknown,Material only,$1690,3.0,No
+49583926,Unknown,Material and injury,$15750,1.0,No
+72296323,Unknown,Material only,$2110,1.0,No
+10149231,Unknown,Material and injury,$34780,3.0,No
+93009704,Unknown,Material only,$1900,5.0,No
+60987956,No,Injury only,$36500,1.0,No
+68709394,No,Material and injury,$36860,4.0,No
+27878628,No,Material only,$2277,1.0,Yes
+90085898,No,Material only,$3116.5,1.0,Yes
+56098966,No,Material only,$2360,3.0,No
+69317965,No,Material and injury,$30340,1.0,No
+81968615,No,Material and injury,$23420,1.0,No
+83223514,Yes,Injury only,$30400,1.0,No
+78341228,Unknown,Material only,$2090,1.0,No
+41462913,Unknown,Material and injury,$29740,1.0,No
+80905889,No,Material only,$1680,1.0,No
+93822307,No,Material only,$2940,1.0,No
+4889449,No,Material only,$1207.5,1.0,Yes
+98199694,No,Material and injury,$22540,1.0,No
+50460892,No,Injury only,$31740,2.0,No
+42664554,No,Injury only,$27670,1.0,No
+94943525,No,Material and injury,$44470.5,2.0,Yes
+45434540,No,Material only,$2000,1.0,No
+88544496,Yes,Material only,$2810,3.0,No
+36544565,Unknown,Material and injury,$27330,3.0,No
+90234480,No,Material only,$2670,1.0,No
+40801256,Yes,Material and injury,$26250,1.0,No
+67052896,Unknown,Material and injury,$14690,1.0,No
+15323667,Unknown,Injury only,$15270,4.0,No
+67070056,No,Material only,$2770,1.0,No
+20607084,No,Injury only,$37400,1.0,No
+86886743,No,Injury only,,1.0,No
+52995625,No,Material only,$2310,1.0,No
+63137507,No,Material only,$3323.5,1.0,Yes
+56250763,No,Material only,$1570,1.0,No
+35593972,No,Material only,$1530,1.0,No
+86820732,Unknown,Material only,$1090,1.0,No
+45113346,Unknown,Material only,$1750,1.0,No
+54668401,No,Material only,$2140,1.0,No
+80002521,No,Material only,,3.0,No
+14664886,No,Material only,$2730,1.0,No
+29903212,No,Material only,$2668,2.0,Yes
+95628948,Yes,Injury only,$21160,1.0,No
+39497409,Unknown,Injury only,$32867,3.0,Yes
+77006226,No,Material only,$2930,1.0,No
+23252820,Unknown,Material only,$2560,1.0,No
+96116969,No,Material only,$2420,1.0,No
+46076664,Unknown,Material only,$1690,1.0,No
+91322083,Unknown,Material and injury,$17370,3.0,No
+34414080,No,Injury only,$13090,1.0,No
+87607433,Yes,Material and injury,$33620,1.0,No
+99892000,No,Material only,$2415,2.0,Yes
+74633480,Yes,Material only,$2790,3.0,No
+16859101,Unknown,Material only,$1970,5.0,No
+92362143,No,Material only,$1200,1.0,No
+41291823,No,Material and injury,,1.0,No
+46710738,No,Material only,$1830,1.0,No
+47415706,Unknown,Material and injury,$18457.5,1.0,Yes
+83944124,Unknown,Material only,,1.0,No
+58198965,Yes,Material and injury,$30670,1.0,No
+80503762,No,Material only,$2380.5,1.0,Yes
+15214936,No,Material and injury,$40135,2.0,Yes
+81970531,Unknown,Material and injury,$29200,1.0,No
+12826843,Unknown,Material only,$1340,1.0,No
+20643817,No,Material only,$1800,1.0,No
+38369440,No,Material only,$2780,1.0,No
+69427973,Unknown,Material and injury,,1.0,No
+3497881,No,Material and injury,$42021,1.0,Yes
+46678650,No,Material only,$2200,3.0,No
+17664425,No,Material only,$2196.5,5.0,Yes
+41128407,No,Injury only,$36670,2.0,No
+75884493,Yes,Material and injury,$35310,6.0,No
+22580068,Unknown,Material only,$3151,1.0,Yes
+49170442,No,Material and injury,$42872,1.0,Yes
+76962128,No,Material only,$2420,1.0,No
+72991636,Yes,Material and injury,$32750,4.0,No
+24053072,No,Material only,$2490,1.0,No
+68458649,No,Material only,$1960,5.0,No
+98401399,Unknown,Injury only,$24900,1.0,No
+8310837,Yes,Injury only,$35280,2.0,No
+99170243,No,Material only,$2260,1.0,No
+33314915,No,Material only,$1610,1.0,Yes
+58693933,No,Material only,$2070,1.0,Yes
+65898442,No,Material only,$2990,1.0,No
+40303052,Yes,Injury only,$22440,1.0,No
+94030912,Yes,Material only,$3093.5,1.0,Yes
+76282379,Unknown,Material and injury,$22850,1.0,No
+62528525,No,Material only,,1.0,No
+69526996,No,Material only,$1740,2.0,No
+88566888,No,Material only,$2430,3.0,No
+30015627,Yes,Material only,$2208,4.0,Yes
+70088729,No,Material only,$1552.5,1.0,Yes
+53042145,Unknown,Material only,$2553,4.0,Yes
+12499211,No,Material only,$3139.5,1.0,Yes
+3915010,Unknown,Material and injury,$19820,1.0,No
+23094322,Yes,Material and injury,$35800,1.0,No
+95863439,Unknown,Material only,$2510,1.0,No
+72212627,No,Injury only,$14250,1.0,No
+49164086,No,Material only,$3093.5,4.0,Yes
+44050095,Unknown,Material and injury,$20458.5,1.0,Yes
+10198314,Unknown,Injury only,$28658,1.0,Yes
+84861652,No,Material only,$1290,1.0,No
+88489646,No,Material only,$2360,1.0,No
+89364843,No,Material only,,1.0,No
+29459103,No,Injury only,,1.0,Yes
+86164274,Unknown,Material and injury,$15760,1.0,No
+41858669,No,Material only,$1610,2.0,No
+9113953,No,Material only,$2090,1.0,No
+6984936,Yes,Material and injury,$25210,3.0,No
+37686146,No,Material only,$1510,1.0,No
+86088574,No,Injury only,$40951.5,1.0,Yes
+73685982,No,Material only,$1470,1.0,No
+63279444,No,Material only,$1587,4.0,Yes
+84080228,Yes,Material and injury,$23483,4.0,Yes
+99723844,Yes,Material and injury,$14360,1.0,No
+885337,No,Material only,$2490,2.0,No
+22125988,No,Material only,$2710,1.0,No
+79391302,No,Material only,$2500,2.0,No
+75483302,No,Material only,$1770,5.0,No
+86977672,No,Material only,$1530,2.0,No
+7703371,No,Material only,$1350,1.0,No
+69101618,No,Material and injury,$29220,3.0,No
+20681481,No,Material only,$2720,1.0,No
+9897266,Yes,Injury only,$27350,1.0,No
+69165409,No,Material and injury,$19390,1.0,No
+97226830,No,Material only,$2900,2.0,No
+66788290,Yes,Injury only,$33360,1.0,No
+67697862,No,Material only,$2320,1.0,No
+69623124,No,Material only,$1180,2.0,No
+86445910,Unknown,Material only,$2470,1.0,No
+48445766,No,Material only,$1000,2.0,No
+74787956,Unknown,Material only,,1.0,No
+45364348,No,Material only,$2990,1.0,No
+81661419,No,Material only,$2852,2.0,Yes
+78301168,Unknown,Material only,$1370,1.0,No
+91447671,No,Material only,$1370,1.0,No
+23445933,No,Material only,$1670,2.0,No
+86320995,No,Material only,$1720,1.0,No
+77134414,Unknown,Injury only,$28760,1.0,No
+71986983,Unknown,Material only,$1180,4.0,No
+28528424,No,Material only,,1.0,No
+26346266,No,Material only,$3346.5,1.0,Yes
+71259315,No,Material only,$2110,1.0,No
+78119838,No,Material only,$1750,1.0,No
+27598176,No,Material and injury,$48035.5,1.0,Yes
+83135621,No,Material only,$1240,1.0,No
+51760038,No,Material only,$2800,1.0,No
+91002298,No,Injury only,$34010,1.0,No
+16906248,No,Material only,$1780,1.0,No
+93133213,No,Material only,$1480,1.0,No
+18369428,No,Material only,$1472,1.0,Yes
+71676845,No,Material only,,3.0,No
+68067526,No,Material only,$1330,1.0,No
+97169446,No,Material only,$1780,5.0,No
+44453657,No,Material only,$1276.5,1.0,Yes
+32646041,No,Material and injury,$28520,1.0,Yes
+41946743,No,Injury only,$17870,6.0,No
+74207825,No,Material only,$2380,,No
+24247743,No,Material only,$2280,1.0,No
+69608621,No,Material only,$1357,1.0,Yes
+72664684,Unknown,Material only,$2590,1.0,No
+18174078,No,Material only,$2852,4.0,Yes
+34756508,No,Material only,$1690,1.0,No
+608461,No,Material only,$2630,1.0,No
+12015897,Unknown,Material only,$2270,6.0,No
+60965575,No,Material and injury,$19895,1.0,Yes
+81634435,Unknown,Material and injury,,1.0,No
+67849662,Yes,Injury only,$35920,1.0,No
+96439036,Yes,Injury only,$26320,1.0,No
+51033228,No,Material and injury,$30890,2.0,No
+58451506,No,Material only,$2420,1.0,No
+26734721,No,Material only,$1720,1.0,No
+20923121,No,Material and injury,$31210,1.0,No
+56425562,No,Material only,$1670,1.0,No
+79174311,No,Material only,$2162,5.0,Yes
+30119782,Unknown,Material only,$2242.5,1.0,Yes
+57267299,Yes,Material and injury,$25140,2.0,No
+90217818,No,Injury only,$37743,1.0,Yes
+70708127,No,Material only,$1150,1.0,Yes
+75934330,Yes,Injury only,$20630,1.0,No
+71288937,No,Material only,$1230,1.0,No
+81526763,Unknown,Material only,$2323,3.0,Yes
+78064067,No,Material only,$1090,5.0,No
+29854604,No,Material and injury,$44033.5,1.0,Yes
+8684318,Yes,Material only,$2670,2.0,No
+46513280,No,Material only,$2070,1.0,No
+6104555,Unknown,Material only,$1050,1.0,No
+51669975,Yes,Injury only,$38950,1.0,No
+3205230,No,Material only,$2730,3.0,No
+87596868,Unknown,Injury only,$33330,2.0,No
+82089910,No,Material only,$2780,1.0,No
+57452643,No,Material only,$1380,3.0,No
+65208809,No,Material only,$2290,1.0,No
+6756905,No,Material only,$2320,3.0,No
+46850495,Yes,Material only,$2173.5,1.0,Yes
+79539873,Yes,Material only,$1770,1.0,No
+42364152,No,Material only,$2800,1.0,No
+19888166,Yes,Injury only,$33080,2.0,No
+11256802,No,Material only,$2840,4.0,No
+61575264,No,Material only,$1490,1.0,No
+2379897,No,Material only,$2080,1.0,No
+49290530,No,Material only,$2875,1.0,Yes
+55466148,No,Injury only,$29010,1.0,No
+99120304,No,Material only,$1710,1.0,No
+65061027,Unknown,Material only,$1030,4.0,No
+82584690,Unknown,Material only,$2288.5,1.0,Yes
+40349009,No,Material only,$3346.5,3.0,Yes
+55765343,Unknown,Material only,$1805.5,1.0,Yes
+75409818,No,Material only,$1610,3.0,No
+18332683,Yes,Material and injury,$24850,1.0,No
+35951012,No,Material only,$3059,4.0,Yes
+14818669,No,Material only,$1520,2.0,No
+85322831,No,Material and injury,$23575,2.0,Yes
+73449366,Unknown,Material and injury,$25120,1.0,No
+43020876,Yes,Material and injury,$36685,3.0,Yes
