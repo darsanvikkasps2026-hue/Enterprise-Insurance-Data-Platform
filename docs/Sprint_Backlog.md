@@ -14,16 +14,16 @@
 
 | ID | Task | Deliverable | Status |
 |---|---|---|---|
-| S1-01 | Identify insurance data sources | Source Inventory | Not Started |
-| S1-02 | Prepare source datasets | Source datasets | Not Started |
-| S1-03 | Define data fields and descriptions | Data Dictionary | Not Started |
-| S1-04 | Configure PostgreSQL staging database | Staging Database | Not Started |
-| S1-05 | Build CSV ingestion pipeline | Pentaho ETL | Not Started |
-| S1-06 | Build Excel ingestion pipeline | Pentaho ETL | Not Started |
-| S1-07 | Build JSON ingestion pipeline | Pentaho ETL | Not Started |
-| S1-08 | Build XML ingestion pipeline | Pentaho ETL | Not Started |
-| S1-09 | Build SQL ingestion pipeline | Pentaho ETL | Not Started |
-| S1-10 | Add ingestion logging and exception handling | ETL Logging | Not Started |
+| S1-01 | Identify insurance data sources | Source Inventory | Completed |
+| S1-02 | Prepare source datasets | Source datasets | Completed |
+| S1-03 | Define data fields and descriptions | Data Dictionary | Completed |
+| S1-04 | Configure PostgreSQL staging database | Staging Database | Completed |
+| S1-05 | Build CSV ingestion pipeline | Pentaho ETL | Completed |
+| S1-06 | Build Excel ingestion pipeline | Pentaho ETL | Completed |
+| S1-07 | Build JSON ingestion pipeline | Pentaho ETL | Completed |
+| S1-08 | Build XML ingestion pipeline | Pentaho ETL | Completed |
+| S1-09 | Build SQL ingestion pipeline | Pentaho ETL | Completed |
+| S1-10 | Add ingestion logging and exception handling | ETL Logging | Completed |
 
 ## Sprint 2 — Data Profiling and Data Warehouse
 
