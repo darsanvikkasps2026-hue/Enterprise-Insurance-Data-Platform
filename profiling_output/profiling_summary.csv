@@ -1,0 +1,6 @@
+dataset,rows,columns,duplicate_rows,total_missing_values
+Customer Profile - JS/JSON,1085,4,0,0
+Claim Details - SQL,1100,5,0,0
+Claim Details - CSV,1100,5,0,0
+Claim Additional - CSV,1100,6,0,75
+Customer Additional - XML,1085,3,0,0
