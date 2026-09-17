@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>customer_service_ingestion</name>
+    <name>claim additional</name>
     <description/>
     <extended_description/>
     <trans_version/>
@@ -427,80 +427,24 @@
     <clusterschemas>
     </clusterschemas>
     <created_user>-</created_user>
-    <created_date>2026/08/20 22:01:35.683</created_date>
+    <created_date>2026/09/10 21:46:58.983</created_date>
     <modified_user>-</modified_user>
-    <modified_date>2026/08/20 22:01:35.683</modified_date>
+    <modified_date>2026/09/10 21:46:58.983</modified_date>
     <key_for_session_key/>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
   </notepads>
-  <connection>
-    <name>insurance_dw_connection</name>
-    <server>localhost</server>
-    <type>POSTGRESQL</type>
-    <access>Native</access>
-    <database>insurance_dw</database>
-    <port>5432</port>
-    <username>postgres</username>
-    <password>Encrypted 2be98afc86aa7f2e4cb0aba65da97a1ce</password>
-    <servername/>
-    <data_tablespace/>
-    <index_tablespace/>
-    <attributes>
-      <attribute>
-        <code>FORCE_IDENTIFIERS_TO_LOWERCASE</code>
-        <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>FORCE_IDENTIFIERS_TO_UPPERCASE</code>
-        <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>IS_CLUSTERED</code>
-        <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>PORT_NUMBER</code>
-        <attribute>5432</attribute>
-      </attribute>
-      <attribute>
-        <code>PRESERVE_RESERVED_WORD_CASE</code>
-        <attribute>Y</attribute>
-      </attribute>
-      <attribute>
-        <code>QUOTE_ALL_FIELDS</code>
-        <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>SUPPORTS_BOOLEAN_DATA_TYPE</code>
-        <attribute>Y</attribute>
-      </attribute>
-      <attribute>
-        <code>SUPPORTS_TIMESTAMP_DATA_TYPE</code>
-        <attribute>Y</attribute>
-      </attribute>
-      <attribute>
-        <code>USE_POOLING</code>
-        <attribute>N</attribute>
-      </attribute>
-    </attributes>
-  </connection>
   <order>
     <hop>
-      <from>JSON input</from>
-      <to>Select values</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Select values</from>
-      <to>Table output</to>
+      <from>Get data from XML 2</from>
+      <to>Write to log 2</to>
       <enabled>Y</enabled>
     </hop>
   </order>
   <step>
-    <name>JSON input</name>
-    <type>JsonInput</type>
+    <name>Get data from XML 2</name>
+    <type>getXMLData</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -513,16 +457,17 @@
     <include_field/>
     <rownum>N</rownum>
     <addresultfile>N</addresultfile>
+    <namespaceaware>N</namespaceaware>
+    <ignorecomments>N</ignorecomments>
     <readurl>N</readurl>
-    <removeSourceField>N</removeSourceField>
+    <validating>N</validating>
+    <usetoken>N</usetoken>
     <IsIgnoreEmptyFile>N</IsIgnoreEmptyFile>
     <doNotFailIfNoFile>Y</doNotFailIfNoFile>
-    <ignoreMissingPath>Y</ignoreMissingPath>
-    <defaultPathLeafToNull>Y</defaultPathLeafToNull>
-    <includeNulls>N</includeNulls>
     <rownum_field/>
+    <encoding>UTF-8</encoding>
     <file>
-      <name>C:\Users\P S DARSAN VIKKAS\Enterprise-Insurance-Data-Platform\datasets\customer_service_application.json</name>
+      <name>C:\Users\P S DARSAN VIKKAS\Enterprise-Insurance-Data-Platform\datasets\dataset_4_claim_additional.xml</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -530,34 +475,10 @@
     </file>
     <fields>
       <field>
-        <name>review_id</name>
-        <path>$[*].review_id</path>
-        <type>None</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-        <repeat>N</repeat>
-      </field>
-      <field>
         <name>customer_id</name>
-        <path>$[*].customer_id</path>
-        <type>None</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-        <repeat>N</repeat>
-      </field>
-      <field>
-        <name>review_date</name>
-        <path>$[*].review_date</path>
+        <xpath>customer_id</xpath>
+        <element_type>node</element_type>
+        <result_type>valueof</result_type>
         <type>String</type>
         <format/>
         <currency/>
@@ -569,21 +490,10 @@
         <repeat>N</repeat>
       </field>
       <field>
-        <name>rating</name>
-        <path>$[*].rating</path>
-        <type>None</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-        <repeat>N</repeat>
-      </field>
-      <field>
-        <name>review_text</name>
-        <path>$[*].review_text</path>
+        <name>Contact</name>
+        <xpath>Contact</xpath>
+        <element_type>node</element_type>
+        <result_type>valueof</result_type>
         <type>String</type>
         <format/>
         <currency/>
@@ -595,35 +505,11 @@
         <repeat>N</repeat>
       </field>
       <field>
-        <name>sentiment</name>
-        <path>$[*].sentiment</path>
+        <name>Segment</name>
+        <xpath>Segment</xpath>
+        <element_type>node</element_type>
+        <result_type>valueof</result_type>
         <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-        <repeat>N</repeat>
-      </field>
-      <field>
-        <name>generated_task</name>
-        <path>$[*].generated_task</path>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-        <repeat>N</repeat>
-      </field>
-      <field>
-        <name>ai_generated</name>
-        <path>$[*].ai_generated</path>
-        <type>Boolean</type>
         <format/>
         <currency/>
         <decimal/>
@@ -635,9 +521,11 @@
       </field>
     </fields>
     <limit>0</limit>
+    <loopxpath>/Rows/Row</loopxpath>
     <IsInFields>N</IsInFields>
     <IsAFile>N</IsAFile>
-    <valueField/>
+    <XmlField/>
+    <prunePath/>
     <shortFileFieldName/>
     <pathFieldName/>
     <hiddenFieldName/>
@@ -655,14 +543,14 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>144</xloc>
-      <yloc>112</yloc>
+      <xloc>320</xloc>
+      <yloc>240</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Table output</name>
-    <type>TableOutput</type>
+    <name>Write to log 2</name>
+    <type>WriteToLog</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -671,57 +559,13 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <connection>insurance_dw_connection</connection>
-    <schema>stg</schema>
-    <table>customer_service_application</table>
-    <commit>1000</commit>
-    <truncate>N</truncate>
-    <ignore_errors>N</ignore_errors>
-    <use_batch>Y</use_batch>
-    <specify_fields>Y</specify_fields>
-    <partitioning_enabled>N</partitioning_enabled>
-    <partitioning_field/>
-    <partitioning_daily>N</partitioning_daily>
-    <partitioning_monthly>Y</partitioning_monthly>
-    <tablename_in_field>N</tablename_in_field>
-    <tablename_field/>
-    <tablename_in_table>Y</tablename_in_table>
-    <return_keys>N</return_keys>
-    <return_field/>
+    <loglevel>log_level_basic</loglevel>
+    <displayHeader>Y</displayHeader>
+    <limitRows>N</limitRows>
+    <limitRowsNumber>0</limitRowsNumber>
+    <logmessage/>
     <fields>
-      <field>
-        <column_name>review_id</column_name>
-        <stream_name>review_id</stream_name>
-      </field>
-      <field>
-        <column_name>customer_id</column_name>
-        <stream_name>customer_id</stream_name>
-      </field>
-      <field>
-        <column_name>review_date</column_name>
-        <stream_name>review_date</stream_name>
-      </field>
-      <field>
-        <column_name>rating</column_name>
-        <stream_name>rating</stream_name>
-      </field>
-      <field>
-        <column_name>review_text</column_name>
-        <stream_name>review_text</stream_name>
-      </field>
-      <field>
-        <column_name>sentiment</column_name>
-        <stream_name>sentiment</stream_name>
-      </field>
-      <field>
-        <column_name>generated_task</column_name>
-        <stream_name>generated_task</stream_name>
-      </field>
-      <field>
-        <column_name>ai_generated</column_name>
-        <stream_name>ai_generated</stream_name>
-      </field>
-    </fields>
+      </fields>
     <attributes/>
     <cluster_schema/>
     <remotesteps>
@@ -731,204 +575,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>400</xloc>
-      <yloc>100</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Select values</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>review_id</name>
-        <rename/>
-      </field>
-      <field>
-        <name>customer_id</name>
-        <rename/>
-      </field>
-      <field>
-        <name>review_date</name>
-        <rename/>
-      </field>
-      <field>
-        <name>rating</name>
-        <rename/>
-      </field>
-      <field>
-        <name>review_text</name>
-        <rename/>
-      </field>
-      <field>
-        <name>sentiment</name>
-        <rename/>
-      </field>
-      <field>
-        <name>generated_task</name>
-        <rename/>
-      </field>
-      <field>
-        <name>ai_generated</name>
-        <rename/>
-      </field>
-      <select_unspecified>N</select_unspecified>
-      <meta>
-        <name>review_id</name>
-        <rename>review_id</rename>
-        <type>Integer</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask>0</conversion_mask>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>customer_id</name>
-        <rename>customer_id</rename>
-        <type>Integer</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask>0</conversion_mask>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>review_date</name>
-        <rename>review_date</rename>
-        <type>Date</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask>yyyy-MM-dd HH:mm:ss</conversion_mask>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>rating</name>
-        <rename>rating</rename>
-        <type>Integer</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask>0</conversion_mask>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>review_text</name>
-        <rename>review_text</rename>
-        <type>String</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>sentiment</name>
-        <rename>sentiment</rename>
-        <type>String</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>generated_task</name>
-        <rename>generated_task</rename>
-        <type>String</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>ai_generated</name>
-        <rename>ai_generated</rename>
-        <type>Boolean</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>256</xloc>
-      <yloc>208</yloc>
+      <xloc>670</xloc>
+      <yloc>241</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
