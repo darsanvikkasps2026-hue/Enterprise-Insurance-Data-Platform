@@ -1,0 +1,501 @@
+restaurant_id,restaurant_name,cuisine,location,average_cost_for_two,rating,votes,last_updated
+390,Sushi World,Japanese,Mumbai,749.24,3.0,652,2026-08-19
+340,Cafe Aroma,Cafe,Coimbatore,1467.15,4.8,2245,2026-05-28
+267,The Grill,Continental,Jaipur,162.34,2.2,2101,2026-04-21
+137,The Grill,Continental,Bengaluru,1251.44,2.9,3302,2026-05-20
+156,Royal Biryani,Biryani,Mysuru,1972.53,2.1,3879,2026-07-15
+283,BBQ Nation,Barbecue,Pune,2032.7,4.2,651,2026-08-09
+5,Coastal Catch,Seafood,Coimbatore,803.0,2.6,2762,2026-02-22
+294,Green Bowl,Healthy,Tiruppur,761.68,3.3,2344,2026-09-09
+366,Chennai Bites,South Indian,Mysuru,1436.98,3.5,4696,2026-03-18
+184,Dragon Wok,Chinese,Bengaluru,1735.87,3.4,4604,2026-06-17
+171,Coastal Catch,Seafood,Salem,737.73,4.5,1636,2026-07-16
+442,Pasta Point,Italian,Delhi,2320.22,4.6,3431,2026-01-19
+15,Masala Magic,Indian,Trichy,1323.19,4.7,3763,2026-03-15
+115,BBQ Nation,Barbecue,Mumbai,351.19,4.2,4007,2026-05-04
+451,,Indian,Kochi,1355.19,3.4,285,2026-06-03
+54,Curry Leaf,Indian,Vijayawada,401.53,3.7,-40,2026-05-25
+478,Street Food Co,Street Food,,761.3,2.8,2216,2026-03-28
+405,Royal Biryani,Biryani,Bengaluru,1811.85,2.0,4147,2026-08-22
+182,Sushi World,Japanese,Mysuru,2040.78,3.1,3237,2026-01-08
+264,BBQ Nation,Barbecue,Coimbatore,704.08,5.0,3076,2026-04-25
+400,Dosa Corner,South Indian,Mumbai,925.18,3.1,2018,2026-09-13
+200,Tandoori House,North Indian,Kochi,1203.45,3.1,4868,2026-02-25
+250,Burger Hub,Fast Food,Mysuru,450.32,4.1,4317,2026-02-17
+426,The Grill,Continental,Delhi,1453.64,3.2,220,2026-02-15
+50,The Grill,Continental,Jaipur,2496.37,5.0,605,2026-04-20
+195,Tandoori House,North Indian,Mysuru,1948.12,2.6,1774,2026-04-30
+169,The Grill,Continental,Trichy,746.85,2.8,81,2026-08-27
+293,Spice Route,Indian,Salem,587.21,3.6,4606,2026-03-02
+150,Pizza Palace,Italian,Delhi,1807.72,3.2,3957,2026-08-30
+179,Dosa Corner,South Indian,Tiruppur,1417.61,4.9,4353,2026-09-14
+57,Green Bowl,Healthy,Chennai,158.33,4.3,2150,2026-03-24
+56,Cafe Aroma,Cafe,Pune,2277.54,4.5,761,2026-08-05
+230,Pizza Palace,Italian,Bengaluru,1101.83,4.9,1412,2026-08-24
+401,Pasta Point,Italian,Trichy,2367.14,3.0,4007,2026-09-09
+326,Dosa Corner,South Indian,Salem,932.65,3.4,3748,2026-03-18
+125,Cafe Aroma,Cafe,Kochi,1185.1,2.6,425,2026-05-10
+263,The Grill,Continental,Vijayawada,971.52,2.1,441,2026-07-22
+385,Pasta Point,Italian,Jaipur,2217.33,4.7,3504,2026-09-11
+367,Urban Tadka,Indian,Coimbatore,2158.04,3.3,1687,2026-09-08
+148,Urban Tadka,Indian,Pune,1444.47,3.7,768,2026-04-26
+76,Pizza Palace,Italian,Mumbai,1160.24,3.7,2644,2026-08-27
+113,Spice Route,Indian,Kochi,2149.74,2.5,1742,2026-07-01
+334,The Grill,Continental,Coimbatore,1134.13,3.2,1675,2026-07-30
+167,Street Food Co,Street Food,Trichy,2012.42,2.5,651,2026-07-15
+158,Chennai Bites,South Indian,Hyderabad,1330.38,3.8,827,2026-08-14
+358,Burger Hub,Fast Food,Vijayawada,732.91,2.8,1934,2026-08-17
+239,Dragon Wok,Chinese,Delhi,324.35,3.4,313,2026-01-30
+246,Coastal Catch,Seafood,Tiruppur,945.16,3.8,2746,2026-02-03
+170,Pizza Palace,Italian,Trichy,1434.51,2.2,2835,2026-06-03
+166,Pizza Palace,Italian,Coimbatore,1030.88,2.4,4356,2026-07-30
+235,Curry Leaf,Indian,Hyderabad,751.53,2.5,1257,2026-02-08
+55,Kerala Kitchen,Kerala,Mumbai,1836.39,2.6,-50,2026-09-16
+98,Burger Hub,Fast Food,Coimbatore,1938.89,3.1,3458,2026-05-10
+325,Masala Magic,Indian,Jaipur,1346.44,3.5,376,2026-01-20
+270,Tandoori House,North Indian,Bengaluru,2116.22,3.5,4396,2026-01-09
+132,Urban Tadka,Indian,Chennai,1110.02,4.1,3854,2026-05-30
+151,Royal Biryani,Biryani,Kochi,1445.47,3.2,4915,2026-09-18
+77,The Grill,Continental,Kochi,1737.72,3.5,1395,2026-02-13
+376,Spice Route,Indian,Tiruppur,203.43,2.9,4465,2026-08-06
+252,Burger Hub,Fast Food,Tiruppur,1292.74,2.7,1131,2026-03-21
+406,Dragon Wok,Chinese,Chennai,1601.91,4.0,3963,2026-09-07
+194,Kerala Kitchen,Kerala,Chennai,268.86,3.0,1036,2026-04-16
+420,Kerala Kitchen,Kerala,Tiruppur,1592.58,3.8,2678,2026-01-16
+394,Pizza Palace,Italian,Vijayawada,186.03,4.8,966,2026-09-03
+11,Dragon Wok,Chinese,Coimbatore,642.34,2.8,589,2026-03-29
+461,,Italian,Vijayawada,1183.18,2.3,558,2026-06-10
+153,BBQ Nation,Barbecue,Pune,2078.29,2.8,2450,2026-09-08
+26,Cafe Aroma,Cafe,Mysuru,312.65,4.3,1035,2026-03-07
+17,Street Food Co,Street Food,Madurai,1000.69,5.0,1138,2026-09-18
+258,Dragon Wok,Chinese,Trichy,2375.76,5.0,3787,2026-05-25
+389,Chennai Bites,South Indian,Delhi,1119.79,3.2,4346,2026-03-10
+177,Chennai Bites,South Indian,Pune,2003.23,2.1,2993,2026-03-09
+219,Spice Route,Indian,Bengaluru,1903.36,2.6,3444,2026-08-21
+202,The Grill,Continental,Trichy,2415.46,2.2,3928,2026-07-25
+122,Curry Leaf,Indian,Mysuru,606.18,2.7,1474,2026-06-04
+109,The Grill,Continental,Salem,509.53,2.5,4279,2026-05-19
+13,Burger Hub,Fast Food,Mysuru,1955.54,2.2,267,2026-06-11
+93,Pasta Point,Italian,Salem,1876.39,4.4,1811,2026-09-07
+2,Pasta Point,Italian,Bengaluru,1537.66,2.1,772,2026-04-22
+463,,Barbecue,Madurai,869.18,2.4,1581,2026-08-05
+320,Pizza Palace,Italian,Delhi,169.22,2.3,1102,2026-05-16
+210,Coastal Catch,Seafood,Bengaluru,1899.78,3.1,1070,2026-01-31
+238,The Grill,Continental,Bengaluru,1251.96,3.9,2255,2026-01-29
+407,Spice Route,Indian,Chennai,1400.7,3.2,142,2026-05-21
+411,Street Food Co,Street Food,Mumbai,2477.05,2.7,665,2026-01-17
+102,Curry Leaf,Indian,Jaipur,2377.23,3.4,2104,2026-07-08
+87,BBQ Nation,Barbecue,Kochi,1622.86,2.8,639,2026-05-27
+175,Pizza Palace,Italian,Tiruppur,2027.32,3.8,2891,2026-04-23
+253,Tandoori House,North Indian,Pune,2134.41,2.3,4426,2026-01-20
+181,Burger Hub,Fast Food,Tiruppur,420.65,4.9,1158,2026-04-26
+114,Green Bowl,Healthy,Coimbatore,807.2,3.8,2268,2026-01-06
+32,Tandoori House,North Indian,Vijayawada,223.82,5.7,4216,2026-05-02
+92,Cafe Aroma,Cafe,Chennai,2365.44,2.9,3199,2026-08-03
+393,Street Food Co,Street Food,Salem,1727.91,2.7,1716,2026-06-20
+19,Coastal Catch,Seafood,Jaipur,299.29,3.1,3839,2026-05-09
+42,Coastal Catch,Seafood,Salem,-200,5.0,4557,2026-09-07
+348,Masala Magic,Indian,Tiruppur,2415.2,3.0,489,2026-02-15
+403,Urban Tadka,Indian,Vijayawada,2240.01,5.0,486,2026-01-18
+330,Dragon Wok,Chinese,Coimbatore,1733.45,4.9,4786,2026-06-07
+365,BBQ Nation,Barbecue,Kochi,1391.21,3.1,4626,2026-02-27
+91,Coastal Catch,Seafood,Madurai,2276.37,3.8,165,2026-07-14
+277,Cafe Aroma,Cafe,Trichy,578.35,2.4,3754,2026-01-19
+88,Royal Biryani,Biryani,Pune,939.24,4.7,665,2026-03-12
+472,Pasta Point,Italian,,1516.18,2.1,2954,2026-08-14
+319,Street Food Co,Street Food,Coimbatore,264.35,2.8,4899,2026-08-29
+427,Dragon Wok,Chinese,Delhi,368.7,3.8,2662,2026-07-17
+205,Sushi World,Japanese,Jaipur,1396.81,3.4,4964,2026-08-09
+462,,Indian,Mumbai,688.61,2.5,2850,2026-03-14
+218,Urban Tadka,Indian,Mysuru,486.64,4.0,575,2026-03-14
+377,Pasta Point,Italian,Madurai,2084.9,2.7,2840,2026-03-21
+297,Tandoori House,North Indian,Delhi,1424.1,4.7,1295,2026-03-31
+165,Urban Tadka,Indian,Salem,853.75,2.1,2662,2026-01-29
+187,Curry Leaf,Indian,Bengaluru,701.78,3.6,3188,2026-08-21
+207,Coastal Catch,Seafood,Kochi,2237.01,3.2,3720,2026-07-24
+13,Burger Hub,Fast Food,Mysuru,1955.54,2.2,267,2026-06-11
+306,Dosa Corner,South Indian,Trichy,861.64,3.6,4122,2026-03-28
+164,Tandoori House,North Indian,Madurai,2449.09,4.3,828,2026-08-16
+346,Curry Leaf,Indian,Madurai,926.19,3.4,1131,2026-01-03
+243,Chennai Bites,South Indian,Kochi,393.23,4.7,2818,2026-02-13
+383,Street Food Co,Street Food,Jaipur,1965.46,4.5,1945,2026-06-04
+149,Curry Leaf,Indian,Kochi,2375.59,3.9,1266,2026-09-13
+343,The Grill,Continental,Trichy,752.64,3.4,1660,2026-05-19
+396,Pizza Palace,Italian,Madurai,1245.69,3.9,2531,2026-05-14
+208,Coastal Catch,Seafood,Salem,373.45,3.3,2093,2026-07-11
+209,Dosa Corner,South Indian,Trichy,2319.01,2.2,704,2026-02-17
+287,Green Bowl,Healthy,Trichy,2453.06,4.8,619,2026-07-27
+100,Tandoori House,North Indian,Tiruppur,2399.62,2.1,259,2026-05-07
+441,Sushi World,Japanese,Bengaluru,1205.31,3.8,4774,2026-07-25
+399,Spice Route,Indian,Pune,1450.28,3.8,3425,2026-06-01
+144,The Grill,Continental,Bengaluru,889.12,3.0,3316,2026-01-01
+409,Curry Leaf,Indian,Vijayawada,376.34,2.4,1577,2026-05-10
+431,Coastal Catch,Seafood,Pune,1287.94,2.2,2066,2026-05-07
+433,Spice Route,Indian,Madurai,930.71,3.9,2704,2026-08-14
+362,Pizza Palace,Italian,Coimbatore,1594.37,2.7,1099,2026-09-02
+415,Green Bowl,Healthy,Chennai,2321.77,4.1,2301,2026-01-17
+410,Dragon Wok,Chinese,Pune,2018.1,2.2,3331,2026-08-24
+477,Urban Tadka,Indian,,1185.84,4.4,857,2026-01-31
+4,Royal Biryani,Biryani,Kochi,1534.77,4.4,58,2026-03-23
+225,Kerala Kitchen,Kerala,Chennai,168.06,2.9,1735,2026-03-12
+464,,Indian,Kochi,1216.8,4.1,2652,2026-03-30
+3,Royal Biryani,Biryani,Delhi,1564.74,3.7,4469,2026-08-03
+382,Chennai Bites,South Indian,Hyderabad,1334.16,2.9,4724,2026-06-13
+285,Burger Hub,Fast Food,Trichy,844.75,3.3,3495,2026-03-27
+214,Curry Leaf,Indian,Coimbatore,2136.63,3.1,2287,2026-04-26
+101,Masala Magic,Indian,Mysuru,197.89,2.5,1039,2026-08-31
+323,Kerala Kitchen,Kerala,Trichy,1585.95,2.4,797,2026-07-21
+130,Street Food Co,Street Food,Jaipur,291.54,4.9,817,2026-04-17
+488,The Grill@@,Continental#,Salem,2144.3,3.9,2866,2026-07-03
+22,BBQ Nation,Barbecue,Tiruppur,569.83,4.7,2449,2026-09-17
+418,Pasta Point,Italian,Coimbatore,1052.04,4.2,647,2026-09-14
+215,Coastal Catch,Seafood,Mysuru,1468.27,4.3,4565,2026-01-14
+422,Coastal Catch,Seafood,Hyderabad,1747.28,4.0,707,2026-06-01
+134,Royal Biryani,Biryani,Vijayawada,771.7,4.4,4836,2026-04-12
+174,Street Food Co,Street Food,Mysuru,1761.63,4.2,406,2026-09-12
+317,Urban Tadka,Indian,Kochi,2490.53,3.4,2532,2026-09-12
+487,Masala Magic***,Indian!!!,Kochi,2100.51,3.0,20,2026-02-17
+371,Chennai Bites,South Indian,Madurai,959.64,2.2,498,2026-02-05
+339,Royal Biryani,Biryani,Pune,1962.26,4.1,4010,2026-06-12
+363,Dosa Corner,South Indian,Kochi,1907.18,3.8,3411,2026-08-30
+291,The Grill,Continental,Coimbatore,1024.23,4.3,4706,2026-03-12
+398,Masala Magic,Indian,Coimbatore,885.37,2.1,1817,2026-03-16
+269,Pizza Palace,Italian,Mumbai,857.71,2.1,3444,2026-08-23
+136,Tandoori House,North Indian,Chennai,539.92,2.9,4667,2026-05-28
+412,Tandoori House,North Indian,Madurai,1041.27,3.7,464,2026-01-05
+251,Coastal Catch,Seafood,Delhi,1000.3,3.1,1481,2026-04-20
+307,Street Food Co,Street Food,Jaipur,512.36,4.0,4962,2026-06-22
+388,Royal Biryani,Biryani,Mysuru,679.56,4.6,1187,2026-08-26
+455,,Indian,Trichy,1251.69,3.2,2525,2026-04-12
+314,Burger Hub,Fast Food,Mumbai,1246.21,2.8,2035,2026-03-14
+193,Masala Magic,Indian,Bengaluru,2380.18,4.5,755,2026-04-19
+335,BBQ Nation,Barbecue,Tiruppur,1586.97,3.4,515,2026-03-12
+328,Sushi World,Japanese,Jaipur,1887.4,2.9,2760,2026-09-17
+139,Burger Hub,Fast Food,Jaipur,738.36,2.3,4717,2026-01-11
+288,Dragon Wok,Chinese,Delhi,2032.58,4.0,260,2026-03-15
+282,Sushi World,Japanese,Coimbatore,2438.25,3.5,4080,2026-07-08
+324,Dragon Wok,Chinese,Tiruppur,2468.95,3.7,3000,2026-03-15
+2,Pasta Point,Italian,Bengaluru,1537.66,2.1,772,2026-04-22
+232,BBQ Nation,Barbecue,Bengaluru,1080.05,2.9,2786,2026-04-24
+247,Burger Hub,Fast Food,Bengaluru,1461.21,3.2,2069,2026-03-18
+299,Cafe Aroma,Cafe,Chennai,998.11,3.7,3833,2026-03-08
+486,Burger Hub®,Fast&Food,Madurai,1231.23,2.8,3845,2026-07-08
+489,Sushi World!!,Japanese@,Mysuru,326.66,3.6,902,2026-08-08
+490,BBQ Nation###,Barbecue&Grill,Mysuru,623.7,2.8,3402,2026-05-26
+192,Pasta Point,Italian,Vijayawada,2447.93,3.1,3266,2026-05-22
+119,Dragon Wok,Chinese,Salem,1216.3,2.9,1893,2026-03-03
+237,Street Food Co,Street Food,Trichy,1642.95,3.9,2594,2026-03-19
+160,Dosa Corner,South Indian,Bengaluru,1253.3,4.9,2778,2026-07-23
+446,BBQ Nation,Barbecue,Salem,1369.17,3.7,4717,2026-04-24
+145,Pasta Point,Italian,Kochi,1121.13,2.6,2968,2026-09-13
+75,Urban Tadka,Indian,Jaipur,1487.4,3.2,8,2026-06-05
+380,Masala Magic,Indian,Bengaluru,387.11,2.1,4902,2026-01-25
+471,Pasta Point,Italian,,1017.29,3.7,1107,2026-07-07
+3,Royal Biryani,Biryani,Delhi,1564.74,3.7,4469,2026-08-03
+117,Pizza Palace,Italian,Mumbai,1100.34,2.7,4769,2026-07-08
+430,Pizza Palace,Italian,Pune,1308.84,2.2,3565,2026-05-22
+23,Kerala Kitchen,Kerala,Mumbai,509.17,4.3,4423,2026-01-01
+279,Pizza Palace,Italian,Delhi,1085.83,4.4,3883,2026-05-10
+300,Kerala Kitchen,Kerala,Vijayawada,352.61,2.9,3926,2026-07-30
+395,Royal Biryani,Biryani,Salem,1570.34,2.6,1965,2026-06-14
+73,Curry Leaf,Indian,Salem,2265.11,3.5,3350,2026-06-17
+445,Burger Hub,Fast Food,Tiruppur,1161.57,2.0,2124,2026-04-24
+18,Cafe Aroma,Cafe,Bengaluru,1926.09,4.6,1257,2026-03-23
+103,Urban Tadka,Indian,Jaipur,1577.03,4.2,943,2026-03-25
+482,Cafe Aroma™,Cafe&Coffee,Salem,1932.16,2.7,2923,2026-06-14
+274,Sushi World,Japanese,Mysuru,1254.82,3.9,3063,2026-05-10
+222,The Grill,Continental,Trichy,1146.43,3.8,3397,2026-05-20
+231,Dragon Wok,Chinese,Bengaluru,1176.27,2.3,3574,2026-07-25
+447,The Grill,Continental,Coimbatore,1069.17,4.3,4826,2026-09-14
+248,Burger Hub,Fast Food,Bengaluru,1519.44,2.4,2870,2026-06-08
+11,Dragon Wok,Chinese,Coimbatore,642.34,2.8,589,2026-03-29
+318,Spice Route,Indian,Bengaluru,2371.3,3.5,1977,2026-04-21
+96,Sushi World,Japanese,Jaipur,1476.32,2.1,3516,2026-03-11
+14,Sushi World,Japanese,Pune,305.54,4.7,4651,2026-06-11
+20,Pasta Point,Italian,Mysuru,2364.71,4.0,943,2026-05-17
+212,Coastal Catch,Seafood,Mysuru,2302.23,2.2,2361,2026-06-09
+70,Kerala Kitchen,Kerala,Delhi,421.77,4.7,1562,2026-05-11
+465,,Italian,Hyderabad,983.43,2.4,1298,2026-08-19
+259,Sushi World,Japanese,Delhi,1389.53,4.9,1640,2026-03-12
+107,Dragon Wok,Chinese,Delhi,1156.69,3.1,4149,2026-06-24
+378,Green Bowl,Healthy,Mumbai,2352.91,4.2,929,2026-01-17
+83,Chennai Bites,South Indian,Delhi,735.62,4.5,3744,2026-03-10
+344,Pasta Point,Italian,Salem,788.31,2.3,4812,2026-05-03
+108,Spice Route,Indian,Mysuru,1137.14,3.5,3556,2026-07-05
+298,Dragon Wok,Chinese,Delhi,676.97,5.0,1142,2026-05-02
+244,BBQ Nation,Barbecue,Trichy,555.51,2.7,3591,2026-08-13
+183,Green Bowl,Healthy,Delhi,440.43,3.1,2152,2026-07-15
+360,Dragon Wok,Chinese,Salem,705.31,4.0,3817,2026-06-07
+369,BBQ Nation,Barbecue,Madurai,1223.48,2.2,3792,2026-06-07
+10,Curry Leaf,Indian,Madurai,803.24,3.9,2993,2026-03-25
+240,Dragon Wok,Chinese,Mysuru,824.63,3.9,744,2026-09-17
+416,Urban Tadka,Indian,Vijayawada,2148.5,2.0,1702,2026-03-15
+39,Chennai Bites,South Indian,Trichy,2498.31,4.5,769,2026-05-02
+99,Tandoori House,North Indian,Kochi,195.55,3.6,2871,2026-04-25
+94,Royal Biryani,Biryani,Pune,1174.21,2.1,2758,2026-07-27
+121,Masala Magic,Indian,Salem,1287.87,4.2,4302,2026-05-25
+241,Sushi World,Japanese,Kochi,1513.77,4.9,341,2026-08-19
+63,Coastal Catch,Seafood,Chennai,571.5,4.8,3377,2026-05-08
+4,Royal Biryani,Biryani,Kochi,1534.77,4.4,58,2026-03-23
+221,Chennai Bites,South Indian,Hyderabad,519.91,3.9,673,2026-05-20
+355,Green Bowl,Healthy,Salem,587.57,4.2,2421,2026-04-09
+12,Pasta Point,Italian,Salem,725.31,3.4,2216,2026-04-23
+439,The Grill,Continental,Salem,642.67,4.4,571,2026-07-29
+131,Masala Magic,Indian,Pune,1702.01,2.5,1428,2026-02-08
+190,Kerala Kitchen,Kerala,Madurai,2356.77,2.8,3040,2026-04-22
+59,Dosa Corner,South Indian,Delhi,234.67,3.1,4531,2026-03-17
+332,Chennai Bites,South Indian,Jaipur,1279.05,3.6,3119,2026-03-17
+186,Coastal Catch,Seafood,Bengaluru,478.48,4.8,2498,2026-09-10
+1,Curry Leaf,Indian,Chennai,1892.64,2.7,1148,2026-02-22
+315,Curry Leaf,Indian,Chennai,832.0,3.2,3430,2026-05-08
+229,Tandoori House,North Indian,Mysuru,885.69,3.3,3318,2026-08-02
+468,,Seafood,Trichy,986.76,4.1,1828,2026-09-08
+345,Royal Biryani,Biryani,Chennai,1724.11,3.6,1912,2026-01-27
+66,Royal Biryani,Biryani,Chennai,1701.08,3.2,2287,2026-02-05
+303,Dosa Corner,South Indian,Madurai,1331.73,4.6,1022,2026-03-20
+95,Urban Tadka,Indian,Mysuru,1248.37,2.4,4380,2026-01-14
+273,Tandoori House,North Indian,Delhi,1428.59,4.4,4163,2026-01-11
+342,Dosa Corner,South Indian,Pune,248.86,4.9,652,2026-06-27
+286,The Grill,Continental,Coimbatore,1200.75,4.2,2893,2026-08-11
+443,Dragon Wok,Chinese,Salem,2254.43,3.6,701,2026-02-25
+475,Tandoori House,North Indian,,902.51,5.0,980,2026-04-18
+278,Pizza Palace,Italian,Mumbai,252.94,2.6,348,2026-06-11
+436,Urban Tadka,Indian,Madurai,2426.5,2.9,4027,2026-05-05
+450,Burger Hub,Fast Food,Kochi,1993.03,3.6,2858,2026-09-01
+33,Green Bowl,Healthy,Trichy,1290.72,5.9,4682,2026-08-31
+140,Green Bowl,Healthy,Jaipur,244.54,4.3,3859,2026-08-15
+373,Dragon Wok,Chinese,Vijayawada,1048.83,4.6,3097,2026-07-12
+172,Cafe Aroma,Cafe,Bengaluru,707.43,3.7,4713,2026-06-01
+16,Green Bowl,Healthy,Hyderabad,729.57,3.7,2157,2026-08-08
+61,Masala Magic,Indian,Trichy,736.39,2.3,4591,2026-07-28
+138,BBQ Nation,Barbecue,Delhi,1310.42,2.2,331,2026-08-10
+65,Royal Biryani,Biryani,Mumbai,2068.98,3.4,2505,2026-04-27
+456,,Continental,Jaipur,887.28,2.0,889,2026-04-16
+86,Urban Tadka,Indian,Salem,2174.51,3.4,2030,2026-05-22
+133,Chennai Bites,South Indian,Mumbai,827.05,2.8,3724,2026-02-06
+265,Spice Route,Indian,Coimbatore,2337.44,4.5,2751,2026-03-16
+268,Dosa Corner,South Indian,Delhi,2359.53,3.8,3472,2026-02-26
+178,Tandoori House,North Indian,Vijayawada,843.51,4.2,1443,2026-04-13
+255,Urban Tadka,Indian,Hyderabad,2103.66,4.3,1361,2026-08-13
+84,The Grill,Continental,Trichy,1398.16,3.7,2604,2026-08-15
+6,Tandoori House,North Indian,Madurai,377.28,4.5,4950,2026-05-16
+408,Pasta Point,Italian,Pune,190.29,4.4,3532,2026-04-02
+337,Burger Hub,Fast Food,Hyderabad,1230.21,3.6,4480,2026-07-01
+424,Sushi World,Japanese,Coimbatore,997.65,2.3,2530,2026-08-16
+90,Coastal Catch,Seafood,Madurai,927.57,3.4,515,2026-04-16
+295,Masala Magic,Indian,Bengaluru,468.96,2.2,1419,2026-08-16
+29,Sushi World,Japanese,Trichy,1677.21,3.3,4244,2026-08-20
+233,Burger Hub,Fast Food,Tiruppur,545.11,3.5,939,2026-04-10
+60,Coastal Catch,Seafood,Hyderabad,248.3,3.1,331,2026-07-03
+223,Masala Magic,Indian,Tiruppur,1354.01,3.0,913,2026-05-26
+381,Royal Biryani,Biryani,Salem,253.96,3.3,4426,2026-04-22
+126,Cafe Aroma,Cafe,Bengaluru,2081.97,3.2,611,2026-01-28
+30,Curry Leaf,Indian,Mumbai,678.04,3.0,4824,2026-04-28
+484,Pizza Palace!!!,Italian$$,Hyderabad,1354.85,2.8,1706,2026-07-12
+224,Street Food Co,Street Food,Kochi,1388.3,2.9,1811,2026-07-22
+434,Burger Hub,Fast Food,Madurai,2066.37,4.6,4874,2026-03-11
+34,Royal Biryani,Biryani,Tiruppur,1261.49,6.1,777,2026-02-19
+351,Cafe Aroma,Cafe,Hyderabad,2351.03,4.9,2376,2026-01-20
+168,Kerala Kitchen,Kerala,Trichy,715.95,4.7,1177,2026-04-29
+309,Masala Magic,Indian,Tiruppur,1494.52,3.9,253,2026-09-12
+80,Cafe Aroma,Cafe,Jaipur,2146.88,2.2,3400,2026-04-10
+105,Sushi World,Japanese,Salem,616.07,3.8,1994,2026-02-22
+262,The Grill,Continental,Vijayawada,1356.38,4.5,756,2026-04-24
+41,Urban Tadka,Indian,Madurai,-100,3.2,3732,2026-05-27
+159,Curry Leaf,Indian,Delhi,2289.54,2.0,1185,2026-07-29
+310,Pasta Point,Italian,Pune,1658.48,2.9,2011,2026-07-27
+143,Burger Hub,Fast Food,Madurai,1780.13,2.9,3285,2026-01-19
+79,Pizza Palace,Italian,Mumbai,2045.42,2.4,383,2026-05-06
+276,Dosa Corner,South Indian,Chennai,977.9,3.0,1439,2026-08-26
+275,Spice Route,Indian,Coimbatore,2003.02,3.0,854,2026-06-20
+457,,Healthy,Tiruppur,1326.02,4.4,2374,2026-02-22
+206,Curry Leaf,Indian,Tiruppur,1799.18,4.6,4521,2026-04-21
+423,Royal Biryani,Biryani,Salem,322.74,2.8,3117,2026-03-20
+213,Dragon Wok,Chinese,Bengaluru,1508.11,2.6,3955,2026-04-25
+257,The Grill,Continental,Mumbai,1404.93,2.9,3847,2026-04-10
+147,The Grill,Continental,Vijayawada,1790.89,2.4,4992,2026-05-03
+260,Green Bowl,Healthy,Chennai,1656.77,4.6,4547,2026-02-22
+204,Tandoori House,North Indian,Coimbatore,1579.5,2.2,2257,2026-06-16
+31,Street Food Co,Street Food,Mumbai,166.9,5.5,487,2026-04-28
+21,Burger Hub,Fast Food,Bengaluru,839.73,2.5,31,2026-05-15
+111,Street Food Co,Street Food,Pune,907.42,2.7,714,2026-05-23
+135,Coastal Catch,Seafood,Bengaluru,1429.72,3.9,2181,2026-03-14
+8,Pasta Point,Italian,Pune,2099.1,3.9,2967,2026-04-09
+35,Coastal Catch,Seafood,Coimbatore,1145.41,6.3,448,2026-02-20
+301,Coastal Catch,Seafood,Mysuru,1501.02,2.4,2602,2026-02-07
+481,Spice@Route!!!,Indian#,Tiruppur,1771.38,4.8,1145,2026-03-06
+38,The Grill,Continental,Mumbai,2205.04,2.2,4513,2026-02-20
+242,Street Food Co,Street Food,Trichy,592.36,3.8,4112,2026-03-19
+89,Dosa Corner,South Indian,Mumbai,1050.13,2.5,1757,2026-02-02
+280,Chennai Bites,South Indian,Tiruppur,1670.22,2.9,396,2026-06-19
+188,Dragon Wok,Chinese,Trichy,2381.04,4.1,4430,2026-08-03
+216,Kerala Kitchen,Kerala,Vijayawada,1695.9,4.1,242,2026-04-03
+292,BBQ Nation,Barbecue,Coimbatore,1085.38,3.9,2049,2026-02-28
+199,Spice Route,Indian,Hyderabad,773.61,2.4,3453,2026-02-28
+421,Green Bowl,Healthy,Tiruppur,2482.58,3.5,2919,2026-07-12
+163,Kerala Kitchen,Kerala,Bengaluru,701.71,4.1,2359,2026-04-27
+459,,Cafe,Delhi,1745.47,2.9,1601,2026-07-20
+7,Chennai Bites,South Indian,Salem,1229.65,2.4,3105,2026-02-10
+271,BBQ Nation,Barbecue,Jaipur,718.55,2.4,3521,2026-01-01
+425,Dragon Wok,Chinese,Tiruppur,783.95,2.4,1540,2026-08-09
+305,BBQ Nation,Barbecue,Vijayawada,817.51,2.2,1613,2026-05-21
+327,Kerala Kitchen,Kerala,Vijayawada,1361.44,3.0,2614,2026-03-25
+256,Chennai Bites,South Indian,Madurai,1006.1,4.2,3643,2026-05-26
+124,Dosa Corner,South Indian,Trichy,2190.88,3.5,105,2026-05-26
+58,The Grill,Continental,Delhi,1808.32,3.7,921,2026-02-08
+198,Dosa Corner,South Indian,Chennai,991.87,4.4,4828,2026-06-15
+254,Burger Hub,Fast Food,Vijayawada,1950.82,2.4,3091,2026-03-20
+123,Spice Route,Indian,Salem,1405.22,2.8,451,2026-05-30
+28,Masala Magic,Indian,Vijayawada,1417.35,4.2,1652,2026-06-09
+368,Tandoori House,North Indian,Vijayawada,1349.38,4.4,3719,2026-03-09
+152,Dosa Corner,South Indian,Mysuru,314.05,4.3,3404,2026-06-24
+201,The Grill,Continental,Delhi,670.64,3.8,4276,2026-06-04
+97,The Grill,Continental,Hyderabad,268.17,3.1,1738,2026-08-21
+261,BBQ Nation,Barbecue,Mysuru,442.99,2.3,1318,2026-05-20
+311,Pizza Palace,Italian,Kochi,321.49,2.2,3606,2026-08-01
+432,Cafe Aroma,Cafe,Jaipur,1599.17,3.4,1114,2026-06-05
+106,Pizza Palace,Italian,Mysuru,1758.01,4.4,4641,2026-01-22
+470,,South Indian,Pune,559.75,2.9,1883,2026-09-11
+338,Green Bowl,Healthy,Jaipur,1287.82,4.9,2290,2026-06-02
+14,Sushi World,Japanese,Pune,305.54,4.7,4651,2026-06-11
+354,The Grill,Continental,Pune,603.11,2.3,1336,2026-08-23
+146,The Grill,Continental,Tiruppur,271.29,2.8,1078,2026-05-28
+312,Cafe Aroma,Cafe,Kochi,629.45,3.8,2565,2026-06-13
+364,Pasta Point,Italian,Tiruppur,1710.62,2.7,2032,2026-02-11
+308,Street Food Co,Street Food,Chennai,2089.31,2.1,377,2026-05-16
+284,Kerala Kitchen,Kerala,Mysuru,574.07,2.9,845,2026-02-10
+128,Curry Leaf,Indian,Delhi,1946.44,3.8,1853,2026-07-14
+44,Burger Hub,Fast Food,Chennai,-400,3.4,4355,2026-03-22
+331,Spice Route,Indian,Jaipur,1265.29,4.9,4743,2026-04-27
+142,Cafe Aroma,Cafe,Coimbatore,1109.62,3.0,861,2026-03-24
+127,Dosa Corner,South Indian,Hyderabad,2056.18,4.8,702,2026-05-08
+379,Coastal Catch,Seafood,Jaipur,1950.23,4.7,133,2026-05-04
+162,Burger Hub,Fast Food,Trichy,1838.99,4.3,4437,2026-01-19
+444,Royal Biryani,Biryani,Trichy,1712.03,2.5,367,2026-07-24
+392,Sushi World,Japanese,Trichy,1571.68,2.1,601,2026-04-07
+417,Sushi World,Japanese,Vijayawada,330.8,2.5,1974,2026-07-19
+374,Tandoori House,North Indian,Trichy,2415.74,4.6,1094,2026-06-28
+302,The Grill,Continental,Kochi,1748.26,3.0,4521,2026-04-04
+480,BBQ Nation,Barbecue,,1776.78,4.0,400,2026-03-11
+72,Dragon Wok,Chinese,Madurai,314.44,4.0,2709,2026-06-10
+52,Dragon Wok,Chinese,Pune,520.71,4.5,-20,2026-01-05
+45,Chennai Bites,South Indian,Delhi,-500,2.6,4879,2026-02-04
+112,The Grill,Continental,Mumbai,1913.62,3.7,3109,2026-06-22
+227,Dosa Corner,South Indian,Madurai,1401.57,2.7,4582,2026-07-01
+352,Spice Route,Indian,Pune,1484.71,2.3,2749,2026-05-26
+316,Urban Tadka,Indian,Mysuru,919.47,3.7,2566,2026-04-08
+211,Street Food Co,Street Food,Delhi,1469.96,4.0,3370,2026-07-01
+78,Pizza Palace,Italian,Delhi,1710.06,3.9,770,2026-05-01
+384,Dosa Corner,South Indian,Trichy,1374.94,3.2,2259,2026-02-01
+322,Dragon Wok,Chinese,Delhi,828.21,3.2,3694,2026-05-24
+438,Street Food Co,Street Food,Mumbai,1541.73,3.6,4511,2026-01-14
+370,Spice Route,Indian,Madurai,747.97,2.0,1790,2026-02-07
+180,Green Bowl,Healthy,Mysuru,536.68,4.7,3952,2026-06-01
+479,Burger Hub,Fast Food,,1766.4,2.9,2355,2026-05-17
+453,,Indian,Vijayawada,1774.24,2.7,724,2026-03-23
+454,,Fast Food,Delhi,882.19,3.4,1669,2026-04-05
+313,Dragon Wok,Chinese,Madurai,457.3,3.1,4606,2026-02-24
+428,Spice Route,Indian,Pune,1122.45,4.3,4588,2026-05-05
+289,Kerala Kitchen,Kerala,Trichy,1986.08,2.1,555,2026-05-01
+272,Kerala Kitchen,Kerala,Coimbatore,715.33,3.2,706,2026-07-04
+36,Chennai Bites,South Indian,Madurai,1861.3,4.4,900,2026-05-08
+74,Sushi World,Japanese,Salem,844.79,2.4,3449,2026-07-14
+347,Pasta Point,Italian,Vijayawada,521.16,4.0,3901,2026-09-02
+329,BBQ Nation,Barbecue,Delhi,1301.14,3.7,3895,2026-01-09
+69,Chennai Bites,South Indian,Bengaluru,1551.94,3.0,2574,2026-08-12
+386,Chennai Bites,South Indian,Coimbatore,2362.73,4.0,4301,2026-06-13
+397,Dragon Wok,Chinese,Delhi,2224.61,3.4,3851,2026-06-13
+196,Burger Hub,Fast Food,Tiruppur,496.75,4.7,28,2026-05-22
+71,Chennai Bites,South Indian,Salem,1174.74,3.6,4415,2026-04-11
+154,Dosa Corner,South Indian,Kochi,1415.66,3.0,4526,2026-07-13
+189,Street Food Co,Street Food,Salem,1857.51,4.7,816,2026-09-08
+161,Tandoori House,North Indian,Mysuru,922.13,4.0,4376,2026-07-14
+414,BBQ Nation,Barbecue,Vijayawada,250.0,2.6,4648,2026-09-01
+53,Pasta Point,Italian,Pune,2339.63,2.3,-30,2026-05-16
+413,Urban Tadka,Indian,Bengaluru,1324.67,3.3,2718,2026-02-18
+375,Curry Leaf,Indian,Hyderabad,2483.19,3.2,1048,2026-04-25
+46,Royal Biryani,Biryani,Madurai,431.73,4.7,2021,2026-01-21
+197,Dosa Corner,South Indian,Hyderabad,1419.51,4.4,905,2026-01-14
+118,Cafe Aroma,Cafe,Delhi,1397.67,3.3,4513,2026-06-19
+37,Masala Magic,Indian,Mumbai,1410.27,2.4,1508,2026-05-23
+15,Masala Magic,Indian,Trichy,1323.19,4.7,3763,2026-03-15
+435,Pizza Palace,Italian,Coimbatore,1567.55,4.1,3929,2026-06-10
+356,Urban Tadka,Indian,Jaipur,2161.94,4.7,3508,2026-06-17
+217,Green Bowl,Healthy,Salem,1941.66,4.8,2880,2026-01-04
+62,Kerala Kitchen,Kerala,Salem,513.2,4.8,1336,2026-04-01
+419,Dragon Wok,Chinese,Chennai,379.56,2.7,627,2026-06-24
+12,Pasta Point,Italian,Salem,725.31,3.4,2216,2026-04-23
+357,Tandoori House,North Indian,Madurai,1722.75,2.6,1156,2026-09-02
+483,Tandoori@@ House,North@Indian,Mysuru,695.11,4.5,1618,2026-09-08
+5,Coastal Catch,Seafood,Coimbatore,803.0,2.6,2762,2026-02-22
+228,Tandoori House,North Indian,Madurai,2175.15,2.1,158,2026-08-24
+349,Street Food Co,Street Food,Mumbai,1407.61,4.2,310,2026-03-31
+266,Dosa Corner,South Indian,Chennai,824.17,4.5,1141,2026-08-29
+116,Cafe Aroma,Cafe,Trichy,1822.83,3.3,146,2026-02-17
+304,Pizza Palace,Italian,Hyderabad,530.62,4.8,1852,2026-06-27
+469,,Indian,Bengaluru,1104.64,4.4,913,2026-05-30
+40,Urban Tadka,Indian,Madurai,1291.26,2.6,3290,2026-01-31
+245,BBQ Nation,Barbecue,Delhi,1583.04,3.1,2322,2026-07-18
+110,Kerala Kitchen,Kerala,Tiruppur,2311.1,4.3,3813,2026-08-12
+474,Pizza Palace,Italian,,1599.7,2.1,1086,2026-06-28
+49,Dosa Corner,South Indian,Trichy,1666.93,3.4,599,2026-01-05
+361,Urban Tadka,Indian,Madurai,1762.27,4.8,2552,2026-03-02
+47,Kerala Kitchen,Kerala,Bengaluru,1135.18,3.8,4287,2026-06-11
+460,,Street Food,Bengaluru,756.68,4.5,2538,2026-03-30
+473,Pasta Point,Italian,,549.67,3.3,2687,2026-05-07
+120,Masala Magic,Indian,Coimbatore,430.95,3.6,1521,2026-04-09
+387,Coastal Catch,Seafood,Madurai,500.66,3.1,4411,2026-08-31
+359,Green Bowl,Healthy,Coimbatore,859.57,4.2,98,2026-05-14
+372,Cafe Aroma,Cafe,Chennai,824.66,2.5,1114,2026-08-04
+157,Sushi World,Japanese,Trichy,2012.13,4.0,1251,2026-09-11
+485,Dragon Wok###,Chinese%,Kochi,351.03,4.4,3159,2026-02-17
+203,Coastal Catch,Seafood,Trichy,403.71,4.1,3638,2026-02-07
+27,Cafe Aroma,Cafe,Delhi,538.05,3.6,4974,2026-08-05
+85,Kerala Kitchen,Kerala,Mysuru,1840.29,3.5,4493,2026-08-17
+467,,Indian,Mysuru,814.31,3.7,2684,2026-09-11
+341,Curry Leaf,Indian,Jaipur,1740.06,3.1,3237,2026-06-26
+191,The Grill,Continental,Kochi,2383.8,4.6,818,2026-07-08
+43,Dosa Corner,South Indian,Mumbai,-300,4.9,4749,2026-02-01
+129,The Grill,Continental,Vijayawada,1190.39,4.6,3517,2026-06-06
+185,Kerala Kitchen,Kerala,Mumbai,1671.98,3.9,3808,2026-06-04
+336,BBQ Nation,Barbecue,Mumbai,1468.08,5.0,3923,2026-07-12
+48,Green Bowl,Healthy,Mumbai,1723.86,2.9,2180,2026-07-22
+141,Green Bowl,Healthy,Hyderabad,2492.82,3.3,4033,2026-02-16
+449,Tandoori House,North Indian,Bengaluru,2103.6,4.2,2858,2026-06-09
+448,Dosa Corner,South Indian,Coimbatore,2494.6,3.4,2425,2026-08-01
+82,Coastal Catch,Seafood,Mumbai,563.33,4.9,4248,2026-08-26
+155,The Grill,Continental,Vijayawada,906.18,2.6,1961,2026-07-16
+333,Royal Biryani,Biryani,Chennai,1495.54,4.1,1567,2026-01-10
+452,,South Indian,Tiruppur,1337.25,2.1,1415,2026-02-25
+68,Spice Route,Indian,Bengaluru,2211.04,2.8,4761,2026-05-16
+466,,Kerala,Chennai,1584.84,4.9,1994,2026-03-11
+353,The Grill,Continental,Trichy,1426.76,3.5,1104,2026-09-16
+104,Pizza Palace,Italian,Bengaluru,1509.91,4.8,4721,2026-07-12
+220,Burger Hub,Fast Food,Hyderabad,1019.62,4.2,4654,2026-02-13
+1,Curry Leaf,Indian,Chennai,1892.64,2.7,1148,2026-02-22
+234,Dragon Wok,Chinese,Coimbatore,1859.34,4.5,1214,2026-05-01
+226,Green Bowl,Healthy,Pune,921.09,2.0,3532,2026-03-31
+81,Sushi World,Japanese,Kochi,1089.18,2.4,50,2026-02-24
+440,Cafe Aroma,Cafe,Hyderabad,1638.34,2.7,1267,2026-08-05
+476,Street Food Co,Street Food,,1302.61,4.6,2509,2026-08-08
+64,Green Bowl,Healthy,Hyderabad,2000.33,2.3,322,2026-08-29
+9,Tandoori House,North Indian,Chennai,1703.97,4.3,658,2026-04-30
+236,Urban Tadka,Indian,Tiruppur,1625.68,3.4,4623,2026-08-18
+429,Street Food Co,Street Food,Delhi,548.52,3.1,1142,2026-05-18
+402,The Grill,Continental,Hyderabad,1872.01,3.1,1151,2026-09-08
+321,Dragon Wok,Chinese,Tiruppur,1097.65,2.1,424,2026-04-10
+51,BBQ Nation,Barbecue,Pune,461.27,3.0,-10,2026-05-06
+24,Kerala Kitchen,Kerala,Coimbatore,1298.22,2.3,2978,2026-06-07
+25,Royal Biryani,Biryani,Chennai,716.05,3.7,650,2026-02-13
+391,Dragon Wok,Chinese,Bengaluru,1408.74,4.5,427,2026-05-18
+350,Coastal Catch,Seafood,Vijayawada,2118.37,4.8,302,2026-07-23
+458,,Italian,Hyderabad,785.27,2.6,476,2026-05-15
+176,Masala Magic,Indian,Jaipur,738.97,4.3,1125,2026-02-19
+404,Tandoori House,North Indian,Mysuru,1720.31,4.3,3383,2026-03-12
+249,Sushi World,Japanese,Hyderabad,1548.35,4.8,2541,2026-07-12
+437,Burger Hub,Fast Food,Madurai,808.71,4.4,2995,2026-02-28
+290,Dragon Wok,Chinese,Coimbatore,1049.71,3.7,4961,2026-03-20
+67,Green Bowl,Healthy,Coimbatore,1657.48,3.2,4397,2026-06-19
+296,Tandoori House,North Indian,Tiruppur,1752.53,4.5,2623,2026-06-27
+281,Green Bowl,Healthy,Bengaluru,2028.45,3.3,3281,2026-08-14
+173,Pizza Palace,Italian,Chennai,2448.17,4.0,2253,2026-01-05
